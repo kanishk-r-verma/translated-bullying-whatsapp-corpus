@@ -1,0 +1,78 @@
+File,SentenceNumber,Sentence,EntityType,Role,Sarcasm,Non-Offensive
+C_1,0,"‎28 / 04 / 18 , 14 : 18 - Bullo2 : Vaffanculo Vittima nessuno vuole fare i compiti",Insult-General_Insult,Harasser,False,False
+C_1,1,"‎28 / 04 / 18 , 14 : 19 - SupportoBullo3 : Infatti ma stai zitto e non studiare sempre bravo Bullo2 così si fai",Curse_or_Exclusion,Bystander_assistant,False,False
+C_1,1,"‎28 / 04 / 18 , 14 : 19 - SupportoBullo3 : Infatti ma stai zitto e non studiare sempre bravo Bullo2 così si fai",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+C_1,2,"‎28 / 04 / 18 , 14 : 19 - SupportoBullo1 : Quasi quasi verrei lì da te e te li farei fare tutti i nostri compiti in più crepa",Curse_or_Exclusion,Bystander_assistant,False,False
+C_1,3,"‎28 / 04 / 18 , 14 : 20 - SupportoBullo3 : Ecco secchione da schifo",Insult-General_Insult,Bystander_assistant,False,False
+C_1,5,"‎28 / 04 / 18 , 14 : 20 - Bullo2 : MinChia pure tua madre se mi sta sul c***o",Insult-Attacking_relatives,Harasser,False,False
+C_1,6,"‎28 / 04 / 18 , 14 : 21 - SupportoBullo1 : Tutta colpa tua ora non ho mai tempo libero solo perché devo fare sto cazzo di compiti che per colpa tua facciamo",Curse_or_Exclusion,Bystander_assistant,False,False
+C_1,7,"‎28 / 04 / 18 , 14 : 21 - SupportoBullo3 : Si ma non si può star a casa tutto il giorno a studiare si deve essere così stupidi",Insult-General_Insult,Bystander_assistant,False,False
+C_1,8,"‎28 / 04 / 18 , 14 : 21 - SupportoBullo1 : Non poteva starsene zitta poi",Curse_or_Exclusion,Bystander_assistant,False,False
+C_1,9,"‎28 / 04 / 18 , 14 : 22 - Bullo2 : I libri dei compiti te li infiliamo su per il . . .",Threat_or_Blackmail,Harasser,False,False
+C_1,10,"‎28 / 04 / 18 , 14 : 22 - SupportoVittima1 : Poi non rompete a Vittima pk si vede che lui studia e coi no",Defense,Bystander_defender,False,False
+C_1,11,"‎28 / 04 / 18 , 14 : 22 - Bullo2 : Ma che casso c'è ne frega che lui studia e noi no Mona",Insult-General_Insult,Harasser,False,False
+C_1,12,"‎28 / 04 / 18 , 14 : 23 - SupportoBullo3 : Ma stai zitta tu e il tuo fidanzato che studia",Curse_or_Exclusion,Bystander_assistant,False,False
+C_1,13,"‎28 / 04 / 18 , 14 : 23 - Bullo2 : Vittima coglione",Insult-General_Insult,Harasser,False,False
+C_1,14,"‎28 / 04 / 18 , 14 : 23 - SupportoBullo3 : Hahahahah hai ragione",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+C_1,15,"‎28 / 04 / 18 , 14 : 24 - Vittima : ma non è colpa mia !",Defense,Victim,False,False
+C_1,16,"‎28 / 04 / 18 , 14 : 24 - Vittima : perché ve la prendete con me",Defense,Victim,False,False
+C_1,18,"‎28 / 04 / 18 , 14 : 24 - Vittima : è stata mia madre",Defense,Victim,False,False
+C_1,20,"‎28 / 04 / 18 , 14 : 24 - Vittima : ma io non ho fatto niente",Defense,Victim,False,False
+C_1,21,"‎28 / 04 / 18 , 14 : 24 - Bullo2 : Tua madre fa schifo quanto te",Insult-Attacking_relatives,Harasser,False,False
+C_1,22,"‎28 / 04 / 18 , 14 : 25 - Vittima : non offendere mia madre",Defense,Victim,False,False
+C_1,24,"‎28 / 04 / 18 , 14 : 25 - Bullo2 : Sempre li a studiare stai ma fatti una vita cazzo",Curse_or_Exclusion,Harasser,False,False
+C_1,25,"‎28 / 04 / 18 , 14 : 25 - SupportoVittima1 : Lo volete ccapire che non é colpa sua ma di sua madre",Defense,Bystander_defender,False,False
+C_1,26,"‎28 / 04 / 18 , 14 : 25 - Vittima : ma cosa vuoi tu",Defense,Victim,False,False
+C_1,29,"‎28 / 04 / 18 , 14 : 25 - Bullo2 : Studia studia poi tanto da grande pulirai i cessi",Insult-General_Insult,Harasser,False,False
+C_1,33,"‎28 / 04 / 18 , 14 : 26 - Vittima : lo dico alla prof che mi offendi",Threat_or_Blackmail,Victim,False,False
+C_1,36,"‎28 / 04 / 18 , 14 : 26 - SupportoBullo3 : Ma che testa di cazzo come tua madre",Insult-General_Insult,Bystander_assistant,False,False
+C_1,36,"‎28 / 04 / 18 , 14 : 26 - SupportoBullo3 : Ma che testa di cazzo come tua madre",Insult-Attacking_relatives,Bystander_assistant,False,False
+C_1,38,"‎28 / 04 / 18 , 14 : 27 - Bullo2 : Raga sto qua e già tanto che ha WhatsApp 🤣 🤣 coglione quanto lo puoi usare il telefono al giorno due minuti ?",Insult-General_Insult,Harasser,False,False
+C_1,38,"‎28 / 04 / 18 , 14 : 27 - Bullo2 : Raga sto qua e già tanto che ha WhatsApp 🤣 🤣 coglione quanto lo puoi usare il telefono al giorno due minuti ?",Defamation,Harasser,False,False
+C_1,39,"‎28 / 04 / 18 , 14 : 27 - SupportoBullo3 : Ma stai zitta SupportoVittima1 che tu lavorerai tu ai cessi come te",Curse_or_Exclusion,Bystander_assistant,False,False
+C_1,39,"‎28 / 04 / 18 , 14 : 27 - SupportoBullo3 : Ma stai zitta SupportoVittima1 che tu lavorerai tu ai cessi come te",Defamation,Bystander_assistant,False,False
+C_1,40,"‎28 / 04 / 18 , 14 : 27 - SupportoBullo3 : Hahahah hai ragione",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+C_1,41,"‎28 / 04 / 18 , 14 : 27 - Bullo2 : Grande SupportoBullo3",Encouragement_to_the_Harasser,Harasser,False,False
+C_1,43,"‎28 / 04 / 18 , 14 : 28 - Bullo2 : Ma stai zitta mona",Curse_or_Exclusion,Harasser,False,False
+C_1,43,"‎28 / 04 / 18 , 14 : 28 - Bullo2 : Ma stai zitta mona",Insult-General_Insult,Harasser,False,False
+C_1,44,"‎28 / 04 / 18 , 14 : 28 - Vittima : mica sono un bambino",Defense,Victim,False,False
+C_1,45,"‎28 / 04 / 18 , 14 : 28 - SupportoVittima1 : Ma dai che qui sei te il cesso",Insult-BodyShame,Bystander_assistant,False,False
+C_1,47,"‎28 / 04 / 18 , 14 : 28 - Bullo2 : Questo è ritardato",Insult-General_Insult,Harasser,False,False
+C_1,49,"‎28 / 04 / 18 , 14 : 28 - SupportoBullo3 : Si sì tu sei un bimbo minchia come la tua ragazza SupportoVittima1",Insult-General_Insult,Bystander_assistant,False,False
+C_1,49,"‎28 / 04 / 18 , 14 : 28 - SupportoBullo3 : Si sì tu sei un bimbo minchia come la tua ragazza SupportoVittima1",Insult-Attacking_relatives,Bystander_assistant,False,False
+C_1,56,"‎28 / 04 / 18 , 14 : 29 - Bullo2 : Ma studi tutto il giorno mina ?",Insult-General_Insult,Harasser,False,False
+C_1,59,"‎28 / 04 / 18 , 14 : 30 - SupportoBullo1 : Dato che non hai regole vai da tua madre e mandala a fanculo se è stata lei",Insult-Attacking_relatives,Bystander_assistant,False,False
+C_1,60,"‎28 / 04 / 18 , 14 : 30 - Vittima : che c'è di male se studio ?",Defense,Victim,False,False
+C_1,61,"‎28 / 04 / 18 , 14 : 30 - Bullo2 : Ma sei ritardato forte fra",Insult-General_Insult,Harasser,False,False
+C_1,63,"‎28 / 04 / 18 , 14 : 30 - Vittima : chi sei tu per dirmi cosa devo dirle=",Defense,Victim,False,False
+C_1,64,"‎28 / 04 / 18 , 14 : 30 - SupportoBullo3 : Cosa ma sei tutto fatto coglione",Insult-General_Insult,Bystander_assistant,False,False
+C_1,65,"‎28 / 04 / 18 , 14 : 30 - SupportoBullo3 : Hahaha proprio deficente",Insult-General_Insult,Bystander_assistant,False,False
+C_1,66,"‎28 / 04 / 18 , 14 : 30 - Bullo2 : Si tu studia fai quel cazzo che vuoi ma di a tua madre a quella p . . . . Di non dire più un cazzo ai professori che già abbiamo troppi compiti",Insult-Attacking_relatives,Harasser,False,False
+C_1,67,"‎28 / 04 / 18 , 14 : 31 - SupportoBullo1 : Qualcuno perché , per colpa sua ora siamo qui a fare compiti su compiti 😡",Insult-Attacking_relatives,Bystander_assistant,False,False
+C_1,71,"‎28 / 04 / 18 , 14 : 32 - SupportoBullo3 : Si Vittima di a quella tro . . . di tua mamma che non si permetta di dire ai prof di aumentare i compiti",Insult-Attacking_relatives,Bystander_assistant,False,False
+C_1,75,"‎28 / 04 / 18 , 14 : 32 - SupportoBullo1 : Ma vai a fare . . . . Vittima tu e i tuoi compiti",Insult-General_Insult,Bystander_assistant,False,False
+C_1,79,"‎28 / 04 / 18 , 14 : 35 - Bullo2 : Vittima infame per te solo le lame",Threat_or_Blackmail,Harasser,False,False
+C_1,82,"‎28 / 04 / 18 , 14 : 36 - Bullo2 : Così magari diventa scemo",Insult-General_Insult,Harasser,False,False
+C_1,83,"‎28 / 04 / 18 , 14 : 36 - SupportoVittima1 : Ma pk ce la avete contro di lui cosa vi ha fatto",Defense,Bystander_defender,False,False
+C_1,84,"‎28 / 04 / 18 , 14 : 36 - Bullo2 : Stai zitta",Curse_or_Exclusion,Harasser,False,False
+C_1,85,"‎28 / 04 / 18 , 14 : 36 - SupportoBullo1 : Esci di casa a prenderti un po'di aria vah . . . ma dato che non puoi secchione di merda stai lì sui libri e studia poi vediamo quando sarai al manicomio , asociale del cazzo",Insult-General_Insult,Bystander_assistant,False,False
+C_1,87,"‎28 / 04 / 18 , 14 : 37 - Bullo2 : Secchione de mmmmmerrrrrda",Insult-General_Insult,Harasser,False,False
+C_1,91,"‎28 / 04 / 18 , 14 : 39 - Bullo2 : Tutti i secchioni del cazzo sono ritatdati",Insult-General_Insult,Harasser,False,False
+C_1,92,"‎28 / 04 / 18 , 14 : 40 - SupportoVittima1 : Ha ecco pk sei secchione",Insult-General_Insult,Bystander_defender,False,False
+C_1,94,"‎28 / 04 / 18 , 14 : 46 - Vittima : siete voi che non avete la giusta sensibilità",Defense,Victim,False,False
+C_1,95,"‎28 / 04 / 18 , 14 : 46 - Vittima : e sapete solo offendere",Defense,Victim,False,False
+C_1,97,"‎28 / 04 / 18 , 14 : 50 - Bullo2 : Stai zitta rincoglionita",Insult-General_Insult,Harasser,False,False
+C_1,97,"‎28 / 04 / 18 , 14 : 50 - Bullo2 : Stai zitta rincoglionita",Curse_or_Exclusion,Harasser,False,False
+C_1,104,"‎28 / 04 / 18 , 14 : 54 - Vittima : posso non piacere , ma che male c'è se mi piace studiare e leggere",Defense,Victim,False,False
+C_1,106,"‎28 / 04 / 18 , 14 : 57 - Vittima : ma non è vero che sono troppi",Defense,Victim,False,False
+C_1,107,"‎28 / 04 / 18 , 14 : 57 - Vittima : vi sapete solo lametnare",Defense,Victim,False,False
+C_1,108,"‎28 / 04 / 18 , 14 : 57 - SupportoBullo1 : Studiavi per conto tuo non serviva che anche noi studiassimo in più solo per te coglione",Insult-General_Insult,Bystander_assistant,False,False
+C_1,115,"‎28 / 04 / 18 , 15 : 03 - SupportoVittima2 : Ottima riflessione non asciltarlu",Defense,Bystander_assistant,False,False
+C_1,117,"‎28 / 04 / 18 , 18 : 55 - SupportoBullo3 : Hahah fai schifo secchione",Insult-General_Insult,Bystander_assistant,False,False
+C_1,118,"‎28 / 04 / 18 , 18 : 58 - Bullo1 : Esatto fai cagare 💩",Insult-General_Insult,Harasser,False,False
+C_1,118,"‎28 / 04 / 18 , 18 : 58 - Bullo1 : Esatto fai cagare 💩",Encouragement_to_the_Harasser,Harasser,False,False
+C_2,0,"29 / 04 / 18 , 14 : 51 - SupportoBullo1 : Sei una merda percheeee i compiti me li fai tu !",Insult-General_Insult,Bystander_assistant,False,False
+C_2,2,"‎29 / 04 / 18 , 14 : 53 - Bullo2 : Infatti per colpa tua adesso ci tocca stare a casa a fare compiti",Curse_or_Exclusion,Harasser,False,False
+C_2,3,"‎29 / 04 / 18 , 15 : 01 - Vittima : Non è colpa mia .",Defense,Victim,False,False
+C_2,5,"‎29 / 04 / 18 , 15 : 02 - Bullo2 : Secchione di merda",Insult-General_Insult,Harasser,False,False
+C_2,6,"‎29 / 04 / 18 , 15 : 04 - Bullo1 : Devi andare da tua madre che lei si fa tutti sti compiti del cazzo",Insult-Attacking_relatives,Harasser,False,False

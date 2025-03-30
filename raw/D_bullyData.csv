@@ -1,0 +1,239 @@
+File,SentenceNumber,Sentence,EntityType,Role,Sarcasm,Non-Offensive
+D_1,0,"‎27 / 04 / 18 , 14 : 00 - Bullo1 : Che scemo che eri su quel video",Insult-General_Insult,Harasser,False,False
+D_1,1,"‎27 / 04 / 18 , 14 : 01 - Bullo1 : Non sai manco fare una flessione e ora ti metti a ballare",Insult-General_Insult,Harasser,False,False
+D_1,3,"‎27 / 04 / 18 , 14 : 02 - Bullo2 : sfigato madonna ahahahhaa",Insult-General_Insult,Harasser,False,False
+D_1,4,"‎27 / 04 / 18 , 14 : 03 - SupportoVittima1 : Grandee 😂 😂",Defense,Bystander_defender,False,False
+D_1,5,"‎27 / 04 / 18 , 14 : 04 - Bullo2 : i musical . ly sono da femmina",Insult-Discrimination-Sexism,Harasser,False,False
+D_1,6,"‎27 / 04 / 18 , 14 : 04 - Bullo2 : poi balli come una vacca in calore dai dai",Insult-BodyShame,Harasser,False,False
+D_1,7,"‎27 / 04 / 18 , 14 : 04 - Vittima : A me sembra di aver ottenuto successo con quel video . . .",Defense,Victim,False,False
+D_1,8,"‎27 / 04 / 18 , 14 : 05 - Bullo2 : a me sembra proprio che tu abbia ottenuto successo solo tra gli sfigati come te ahahahha",Insult-General_Insult,Harasser,False,False
+D_1,10,"‎27 / 04 / 18 , 14 : 06 - Bullo1 : Be ovvio Bullo2 lui è il re degli sfigati",Insult-General_Insult,Harasser,False,False
+D_1,11,"‎27 / 04 / 18 , 14 : 06 - Bullo1 : Un cesso vivente",Insult-BodyShame,Harasser,False,False
+D_1,12,"‎27 / 04 / 18 , 14 : 06 - Bullo2 : ovvioooo",Encouragement_to_the_Harasser,Harasser,False,False
+D_1,13,"‎27 / 04 / 18 , 14 : 07 - Bullo1 : 💩 💩 💩 💩 💩 💩",Insult-General_Insult,Harasser,False,False
+D_1,17,"‎27 / 04 / 18 , 14 : 09 - Bullo2 : ah beh decisamente una donna",Insult-Discrimination-Sexism,Harasser,False,False
+D_1,18,"‎27 / 04 / 18 , 14 : 09 - Vittima : non mi sembra . . .",Defense,Victim,False,False
+D_1,19,"‎27 / 04 / 18 , 14 : 09 - Vittima : a me piace quel video",Defense,Victim,False,False
+D_1,21,"‎27 / 04 / 18 , 14 : 09 - Bullo2 : fa cagare in poche parole",Insult-General_Insult,Harasser,False,False
+D_1,22,"‎27 / 04 / 18 , 14 : 09 - Bullo1 : 💩",Insult-General_Insult,Harasser,False,False
+D_1,23,"‎27 / 04 / 18 , 14 : 10 - SupportoVittima2 : Cosa ridi",Defense,Bystander_defender,False,False
+D_1,24,"‎27 / 04 / 18 , 14 : 10 - SupportoVittima2 : Stai zitta",Curse_or_Exclusion,Bystander_defender,False,False
+D_1,25,"‎27 / 04 / 18 , 14 : 10 - Bullo1 : Ma stai zitto tu sfigato",Insult-General_Insult,Harasser,False,False
+D_1,25,"‎27 / 04 / 18 , 14 : 10 - Bullo1 : Ma stai zitto tu sfigato",Curse_or_Exclusion,Harasser,False,False
+D_1,26,"‎27 / 04 / 18 , 14 : 10 - Bullo2 : arriva il secondo sfigato di turno",Insult-General_Insult,Harasser,False,False
+D_1,27,"‎27 / 04 / 18 , 14 : 10 - SupportoBullo1 : Haha é già",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_1,28,"‎27 / 04 / 18 , 14 : 11 - SupportoVittima2 : Se Non la smetti la vedrai con tutti noi",Threat_or_Blackmail,Bystander_defender,False,False
+D_1,29,"‎27 / 04 / 18 , 14 : 11 - Bullo1 : A si con i vostri amici sfigati che",Insult-Attacking_relatives,Harasser,False,False
+D_1,31,"‎27 / 04 / 18 , 14 : 11 - Bullo1 : Non sanno amnco tirare un pugno",Defamation,Harasser,False,False
+D_1,37,"‎27 / 04 / 18 , 14 : 12 - SupportoVittima2 : Sfigata",Insult-General_Insult,Bystander_defender,False,False
+D_1,39,"‎27 / 04 / 18 , 14 : 12 - SupportoVittima2 : Stai zitta",Curse_or_Exclusion,Bystander_defender,False,False
+D_1,42,"‎27 / 04 / 18 , 14 : 12 - SupportoVittima2 : Vai a vagare 💩",Insult-General_Insult,Bystander_defender,False,False
+D_1,43,"‎27 / 04 / 18 , 14 : 12 - SupportoBullo1 : Almeno non sembriamo un elefante",Insult-BodyShame,Bystander_assistant,False,False
+D_1,50,"‎27 / 04 / 18 , 14 : 15 - SupportoBullo1 : O come Pagliaccio ?",Insult-General_Insult,Bystander_assistant,False,False
+D_1,56,"‎27 / 04 / 18 , 14 : 15 - SupportoVittima2 : State zitte sfigate",Curse_or_Exclusion,Bystander_defender,False,False
+D_1,56,"‎27 / 04 / 18 , 14 : 15 - SupportoVittima2 : State zitte sfigate",Insult-General_Insult,Bystander_defender,False,False
+D_1,61,"‎27 / 04 / 18 , 14 : 16 - SupportoBullo1 : Cerchi le botte come il tuo amico ? !",Threat_or_Blackmail,Bystander_assistant,False,False
+D_1,62,"‎27 / 04 / 18 , 14 : 17 - Bullo1 : Appena incontro Vittima lo riempio di botte",Threat_or_Blackmail,Harasser,False,False
+D_1,63,"‎27 / 04 / 18 , 14 : 17 - SupportoBullo2 : O SupportoVittima2 doma ti pesto",Threat_or_Blackmail,Bystander_assistant,False,False
+D_1,64,"‎27 / 04 / 18 , 14 : 17 - Vittima : ma che ho fatto di male ?",Defense,Victim,False,False
+D_1,65,"‎27 / 04 / 18 , 14 : 17 - SupportoVittima2 : Avete rotto lesbiche",Defense,Bystander_defender,False,False
+D_1,65,"‎27 / 04 / 18 , 14 : 17 - SupportoVittima2 : Avete rotto lesbiche",Insult-Discrimination-Sexism,Bystander_defender,False,False
+D_1,68,"‎27 / 04 / 18 , 14 : 17 - Bullo2 : hai ballato come una mucca",Insult-BodyShame,Harasser,False,False
+D_1,69,"‎27 / 04 / 18 , 14 : 17 - Bullo1 : Lesbiche a chi",Defense,Harasser,False,False
+D_1,71,"‎27 / 04 / 18 , 14 : 18 - Vittima : Io non mi credo figo",Defense,Victim,False,False
+D_1,72,"‎27 / 04 / 18 , 14 : 18 - Vittima : mi piace solo ballare",Defense,Victim,False,False
+D_1,73,"‎27 / 04 / 18 , 14 : 19 - Bullo1 : 🐄 🐄 🐄 🐄",Insult-BodyShame,Harasser,False,False
+D_1,76,"‎27 / 04 / 18 , 14 : 20 - SupportoBullo2 : 🐒eccoti Vittima",Insult-General_Insult,Bystander_assistant,False,False
+D_1,77,"‎27 / 04 / 18 , 14 : 20 - Bullo1 : No è la 💩 di una 🐄",Insult-General_Insult,Harasser,False,False
+D_1,78,"‎27 / 04 / 18 , 14 : 20 - Vittima : grandi , siete meravigliosi compagni di classe",Insult-General_Insult,Victim,True,False
+D_1,79,"‎27 / 04 / 18 , 14 : 20 - Vittima : proprio carini e simpatici",Insult-General_Insult,Victim,True,False
+D_1,81,"‎27 / 04 / 18 , 14 : 21 - SupportoBullo1 : Beh balli male e sei uno sfigato quindi",Insult-General_Insult,Bystander_assistant,False,False
+D_1,82,"‎27 / 04 / 18 , 14 : 22 - Bullo2 : cambia classe allora che nessuno ti vuole",Curse_or_Exclusion,Harasser,False,False
+D_1,83,"‎27 / 04 / 18 , 14 : 22 - SupportoBullo1 : Più carini di te di sicuro",Insult-General_Insult,Bystander_assistant,False,False
+D_1,85,"‎27 / 04 / 18 , 14 : 23 - SupportoBullo1 : Ma ti sei visto ballare ? ? !",Other,Harasser,False,False
+D_1,87,"‎27 / 04 / 18 , 14 : 23 - Bullo1 : Si è mai visto allo specchio",Insult-BodyShame,Harasser,False,False
+D_1,88,"‎27 / 04 / 18 , 14 : 24 - SupportoBullo1 : No di certo pk si rompono tutti appena si prova a specchiare",Insult-BodyShame,Bystander_assistant,False,False
+D_1,92,"‎27 / 04 / 18 , 14 : 25 - Vittima : Tutta iinvidia",Defense,Victim,False,False
+D_1,97,"‎27 / 04 / 18 , 14 : 25 - SupportoBullo1 : Di uno sfigato come lui poi",Insult-General_Insult,Bystander_assistant,False,False
+D_1,99,"‎27 / 04 / 18 , 14 : 26 - Bullo1 : A vederti morirebbero tutti",Insult-General_Insult,Harasser,False,False
+D_1,100,"‎27 / 04 / 18 , 14 : 26 - Bullo1 : Oddio a leggere i tuoi messaggi mi sto sentendo male",Other,Harasser,False,False
+D_1,101,"‎27 / 04 / 18 , 14 : 27 - Vittima : Guarda che su musically uno può fare i video anche per scherzo",Defense,Victim,False,False
+D_1,104,"‎27 / 04 / 18 , 14 : 27 - Vittima : Magari stavo scherzando",Defense,Victim,False,False
+D_1,105,"‎27 / 04 / 18 , 14 : 28 - SupportoBullo1 : Oddio non sai nemmeno come si scrive sfigato , musica . ly si scrive 🙄",Insult-General_Insult,Bystander_assistant,False,False
+D_1,109,"‎27 / 04 / 18 , 15 : 12 - Vittima : Ma perché mi volete male ?",Defense,Victim,False,False
+D_1,110,"‎27 / 04 / 18 , 15 : 12 - Vittima : Che vi ho fatto ?",Defense,Victim,False,False
+D_1,111,"‎27 / 04 / 18 , 15 : 13 - Bullo2 : perché sei uno sfigato di merda",Insult-General_Insult,Harasser,False,False
+D_1,112,"‎27 / 04 / 18 , 15 : 13 - Vittima : non è vero",Defense,Victim,False,False
+D_1,113,"‎27 / 04 / 18 , 15 : 13 - Vittima : Lo dico alla prof",Threat_or_Blackmail,Victim,False,False
+D_1,114,"‎27 / 04 / 18 , 17 : 23 - SupportoBullo1 : Uuuuhh adesso fa dalla prof a lamentarsi e a dire che i compagni lo prendono in giro ! Ma fammi il favore bocia di merda , che non sai fare altro che lamentarti",Insult-General_Insult,Bystander_assistant,False,False
+D_1,114,"‎27 / 04 / 18 , 17 : 23 - SupportoBullo1 : Uuuuhh adesso fa dalla prof a lamentarsi e a dire che i compagni lo prendono in giro ! Ma fammi il favore bocia di merda , che non sai fare altro che lamentarti",Other,Bystander_assistant,False,False
+D_1,115,"‎27 / 04 / 18 , 17 : 25 - Vittima : ma che volete ! ! ! ! io ho fatto solo un video su un social e l'ho messo su per meeeeee",Defense,Victim,False,False
+D_1,117,"‎27 / 04 / 18 , 17 : 26 - SupportoBullo1 : E allora ? ! Se balli come un elefante incinto noi non possiamo farci niente logico che se lo pubblichi anche le offese capisci che te le pigli per un motivo",Insult-BodyShame,Bystander_assistant,False,False
+D_1,118,"‎27 / 04 / 18 , 17 : 28 - Vittima : ma non dovete vederlo per forza",Defense,Victim,False,False
+D_1,119,"‎27 / 04 / 18 , 17 : 29 - Vittima : nessuno vi costringe",Defense,Victim,False,False
+D_1,120,"‎27 / 04 / 18 , 17 : 29 - Vittima : siete voi che mi venite sempre a rompere",Defense,Victim,False,False
+D_1,122,"‎27 / 04 / 18 , 17 : 37 - Vittima : era lì . . . no ! l'avete cercato per offendermi",Defense,Victim,False,False
+D_1,124,"‎27 / 04 / 18 , 17 : 38 - SupportoBullo1 : Ma se era sulla pagina home che cavolo dovevamo fare ! Se poi tu ti muovi come un elefante é un altro discorso",Insult-BodyShame,Bystander_assistant,False,False
+D_1,126,"‎27 / 04 / 18 , 17 : 40 - SupportoVittima2 : Non va bene così",Defense,Bystander_defender,False,False
+D_1,127,"‎27 / 04 / 18 , 17 : 40 - SupportoVittima2 : Hai veramente ragione",Defense,Bystander_defender,False,False
+D_1,130,"‎27 / 04 / 18 , 17 : 42 - SupportoBullo1 : Ma che amico , dai che li fa solo pk si sente in colpa siccome nessuno ti caga",Curse_or_Exclusion,Bystander_assistant,False,False
+D_1,132,"‎27 / 04 / 18 , 17 : 42 - SupportoVittima2 : Nessuno ti sta simpatico",Curse_or_Exclusion,Bystander_defender,False,False
+D_1,133,"‎27 / 04 / 18 , 17 : 42 - Vittima : non è vero , lui almeno non mi ha offeso per il video",Defense,Victim,False,False
+D_1,134,"‎27 / 04 / 18 , 17 : 42 - Vittima : solo voi mi offendete",Defense,Victim,False,False
+D_1,135,"‎27 / 04 / 18 , 17 : 43 - SupportoVittima2 : Ecco siete dei cattivi bulli",Defense,Bystander_defender,False,False
+D_1,142,"‎27 / 04 / 18 , 17 : 46 - SupportoVittima2 : Tu stanne fuori",Curse_or_Exclusion,Bystander_defender,False,False
+D_1,143,"‎27 / 04 / 18 , 17 : 47 - SupportoVittima2 : Sai solo offendere , bulla",Defense,Bystander_defender,False,False
+D_1,143,"‎27 / 04 / 18 , 17 : 47 - SupportoVittima2 : Sai solo offendere , bulla",Insult-General_Insult,Bystander_defender,False,False
+D_1,144,"‎27 / 04 / 18 , 17 : 50 - SupportoVittima2 : Wow che silenzio , site solo dei fifoni che non siete altro",Insult-General_Insult,Bystander_defender,False,False
+D_1,155,"‎27 / 04 / 18 , 17 : 57 - SupportoVittima2 : Ma stai zitta",Curse_or_Exclusion,Bystander_defender,False,False
+D_1,161,"‎27 / 04 / 18 , 17 : 58 - SupportoBullo1 : Allora non sto parlando genio !",Insult-General_Insult,Bystander_assistant,True,False
+D_1,165,"‎27 / 04 / 18 , 18 : 01 - SupportoVittima2 : Non sai fare altro , invece che bullizzare le persone o prenderle in giro",Defense,Bystander_defender,False,False
+D_1,166,"‎27 / 04 / 18 , 18 : 02 - SupportoVittima2 : Fatti un' esame di coscienza",Defense,Bystander_defender,False,False
+D_1,167,"‎27 / 04 / 18 , 18 : 03 - SupportoVittima2 : Non sai più cosa scrivere",Other,Bystander_defender,False,False
+D_1,175,"‎27 / 04 / 18 , 18 : 09 - SupportoVittima2 : È se continui ti sospenderanno perché continui a prendere in giro Vittima",Threat_or_Blackmail,Bystander_defender,False,False
+D_1,176,"‎27 / 04 / 18 , 18 : 10 - SupportoBullo1 : Ma gli affari tuoi mai no ? !",Defense,Bystander_assistant,False,False
+D_1,182,"‎27 / 04 / 18 , 18 : 11 - SupportoVittima2 : Mi dispiace perché non sai leggere",Insult-General_Insult,Bystander_defender,False,False
+D_1,184,"‎27 / 04 / 18 , 18 : 12 - SupportoVittima2 : Ridi quanto vuoi",Defense,Bystander_defender,False,False
+D_2,0,"‎27 / 04 / 18 , 14 : 09 - SupportoBullo2 : Come sei bravo a ballare Vittima ! Ahaha",Insult-General_Insult,Bystander_assistant,True,False
+D_2,2,"‎27 / 04 / 18 , 14 : 10 - SupportoBullo1 : Fai schifo ciccione !",Insult-General_Insult,Bystander_assistant,False,False
+D_2,2,"‎27 / 04 / 18 , 14 : 10 - SupportoBullo1 : Fai schifo ciccione !",Insult-BodyShame,Bystander_assistant,False,False
+D_2,3,"‎27 / 04 / 18 , 14 : 10 - SupportoBullo2 : Ahah mi fai ridere",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,4,"‎27 / 04 / 18 , 14 : 10 - Bullo1 : Ballerino provetto vai ad amici sicuramente ti prenderanno hahahahhahahaa",Other,Harasser,True,False
+D_2,5,"‎27 / 04 / 18 , 14 : 10 - SupportoBullo2 : Neanche sai fare una corsa ! Perché ti metti a ballare ? ?",Insult-General_Insult,Bystander_assistant,False,False
+D_2,7,"‎27 / 04 / 18 , 14 : 11 - SupportoBullo2 : È già tanto se è riuscito a scaricarsi musical . ly ahahaha",Insult-General_Insult,Bystander_assistant,False,False
+D_2,8,"‎27 / 04 / 18 , 14 : 11 - Bullo1 : Impara prima di fare le cose che fai più bella figura",Insult-General_Insult,Harasser,False,False
+D_2,9,"‎27 / 04 / 18 , 14 : 11 - Bullo1 : Già hahahhaha",Encouragement_to_the_Harasser,Harasser,False,False
+D_2,10,"‎27 / 04 / 18 , 14 : 11 - SupportoBullo1 : È abbastanza preoccupante che non sappia fare nemmeno una capriola hahaha",Insult-General_Insult,Bystander_assistant,False,False
+D_2,11,"‎27 / 04 / 18 , 14 : 11 - Bullo1 : Già",Encouragement_to_the_Harasser,Harasser,False,False
+D_2,19,"‎27 / 04 / 18 , 14 : 13 - SupportoBullo1 : Quanto mangia quello al giorno hahaha",Insult-BodyShame,Bystander_assistant,False,False
+D_2,20,"‎27 / 04 / 18 , 14 : 13 - SupportoBullo1 : Che quando va al Mc Donald lo svuota hahah",Insult-BodyShame,Bystander_assistant,False,False
+D_2,21,"‎27 / 04 / 18 , 14 : 13 - SupportoBullo2 : Quanto mi fa ridere quello scemo ! Ahahahah",Insult-General_Insult,Bystander_assistant,False,False
+D_2,25,"‎27 / 04 / 18 , 14 : 14 - Bullo1 : Dovrebbe essere segnalato quel musical . ly da quanto è brutto hahahaha",Insult-BodyShame,Harasser,False,False
+D_2,26,"‎27 / 04 / 18 , 14 : 14 - SupportoBullo2 : Esatto ahah",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,28,"‎27 / 04 / 18 , 14 : 15 - Vittima : Certo che proprio non avete nulla da fare se state tutto il giorno a guardare quello che fanno gli altri . . .",Defense,Victim,False,False
+D_2,29,"‎27 / 04 / 18 , 14 : 16 - Bullo1 : E tu dovresti imparare a fare le cose prima di postarle",Other,Harasser,False,False
+D_2,30,"‎27 / 04 / 18 , 14 : 16 - SupportoBullo2 : Stai zitto ahahah . Balli peggio di un elefantee",Insult-BodyShame,Harasser,False,False
+D_2,30,"‎27 / 04 / 18 , 14 : 16 - SupportoBullo2 : Stai zitto ahahah . Balli peggio di un elefantee",Insult-BodyShame,Bystander_assistant,False,False
+D_2,30,"‎27 / 04 / 18 , 14 : 16 - SupportoBullo2 : Stai zitto ahahah . Balli peggio di un elefantee",Curse_or_Exclusion,Harasser,False,False
+D_2,30,"‎27 / 04 / 18 , 14 : 16 - SupportoBullo2 : Stai zitto ahahah . Balli peggio di un elefantee",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,31,"‎27 / 04 / 18 , 14 : 16 - Bullo1 : Ti ho chiesto di parlare ?",Curse_or_Exclusion,Harasser,False,False
+D_2,32,"‎27 / 04 / 18 , 14 : 16 - SupportoBullo2 : Esatto ahah",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,33,"‎27 / 04 / 18 , 14 : 16 - Bullo1 : Zitto elefante",Insult-BodyShame,Harasser,False,False
+D_2,33,"‎27 / 04 / 18 , 14 : 16 - Bullo1 : Zitto elefante",Curse_or_Exclusion,Harasser,False,False
+D_2,34,"‎27 / 04 / 18 , 14 : 17 - SupportoBullo2 : Ahahah",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,35,"‎27 / 04 / 18 , 14 : 17 - SupportoBullo2 : Che ridere",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,36,"‎27 / 04 / 18 , 14 : 35 - SupportoVittima1 : Lasciatelo stare povero !",Defense,Bystander_defender,False,False
+D_2,37,"‎27 / 04 / 18 , 14 : 35 - Bullo1 : Ma tu che vuoi ?",Curse_or_Exclusion,Harasser,False,False
+D_2,38,"‎27 / 04 / 18 , 14 : 35 - Bullo1 : Ti ho chiesto di parlare ?",Curse_or_Exclusion,Harasser,False,False
+D_2,39,"‎27 / 04 / 18 , 14 : 35 - SupportoVittima1 : Voglio che lo lasciate stare",Defense,Bystander_defender,False,False
+D_2,40,"‎27 / 04 / 18 , 14 : 35 - SupportoBullo2 : Chi ti ha chiesto qualcosa ? ?",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,43,"‎27 / 04 / 18 , 14 : 36 - SupportoVittima1 : No e io parlo quando voglio",Defense,Bystander_defender,False,False
+D_2,44,"‎27 / 04 / 18 , 14 : 37 - Bullo1 : Allora cosa parli ?",Curse_or_Exclusion,Harasser,False,False
+D_2,45,"‎27 / 04 / 18 , 14 : 37 - SupportoVittima1 : State zitti io sto solo dicendo di lasciarlo stare",Defense,Bystander_defender,False,False
+D_2,45,"‎27 / 04 / 18 , 14 : 37 - SupportoVittima1 : State zitti io sto solo dicendo di lasciarlo stare",Curse_or_Exclusion,Bystander_defender,False,False
+D_2,46,"‎27 / 04 / 18 , 14 : 38 - Bullo1 : Zitto lo dici a tuo fratello",Insult-Attacking_relatives,Harasser,False,False
+D_2,47,"‎27 / 04 / 18 , 14 : 39 - Bullo1 : Non lo lasciamo stare .",Threat_or_Blackmail,Harasser,False,False
+D_2,48,"‎27 / 04 / 18 , 14 : 39 - SupportoBullo2 : Ma chiudi la bocca . A me zitta non lo dici",Defense,Bystander_assistant,False,False
+D_2,48,"‎27 / 04 / 18 , 14 : 39 - SupportoBullo2 : Ma chiudi la bocca . A me zitta non lo dici",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,49,"‎27 / 04 / 18 , 14 : 40 - SupportoVittima1 : Okay lo farò però lo dico anche a voi bulletti",Insult-General_Insult,Bystander_defender,False,False
+D_2,50,"‎27 / 04 / 18 , 14 : 40 - Bullo1 : Ma tua mamma bulletta",Insult-Attacking_relatives,Harasser,False,False
+D_2,51,"‎27 / 04 / 18 , 14 : 40 - SupportoVittima1 : Zitto posso dirlo a chi voglio",Defense,Harasser,False,False
+D_2,55,"‎27 / 04 / 18 , 14 : 42 - Bullo1 : Sarà meglio che ti sia ben chiaro sennò ti faccio vedere io come ti è ben chiaro",Threat_or_Blackmail,Harasser,False,False
+D_2,56,"‎27 / 04 / 18 , 14 : 42 - Bullo1 : Poi vedremo",Threat_or_Blackmail,Harasser,False,False
+D_2,57,"‎27 / 04 / 18 , 14 : 42 - SupportoVittima1 : Okay vediamo però ancora per una volta lasciate stare Vittima",Defense,Bystander_defender,False,False
+D_2,59,"‎27 / 04 / 18 , 14 : 43 - Bullo1 : Non lo lasciamo stare",Threat_or_Blackmail,Harasser,False,False
+D_2,60,"‎27 / 04 / 18 , 14 : 43 - SupportoVittima1 : Invece sì",Defense,Bystander_defender,False,False
+D_2,62,"‎27 / 04 / 18 , 14 : 43 - Bullo1 : Chi sei tu per dirmi le cose che devo fare ?",Defense,Harasser,False,False
+D_2,63,"‎27 / 04 / 18 , 14 : 43 -Bullo1:  Bambina .",Insult-General_Insult,Harasser,False,False
+D_2,66,"‎27 / 04 / 18 , 14 : 44 - SupportoVittima1 : Sono SupportoVittima1 se non sai chi sono e poi bambina sei tu che te la prendi con i più deboli . . . LASCIATE STARE Vittima",Defense,Bystander_defender,False,False
+D_2,66,"‎27 / 04 / 18 , 14 : 44 - SupportoVittima1 : Sono SupportoVittima1 se non sai chi sono e poi bambina sei tu che te la prendi con i più deboli . . . LASCIATE STARE Vittima",Insult-General_Insult,Bystander_defender,False,False
+D_2,67,"‎27 / 04 / 18 , 14 : 45 - Bullo1 : E tu bamboccio non scrivi più ?",Other,Harasser,False,False
+D_2,68,"‎27 / 04 / 18 , 14 : 45 -Bullo1:  Hai paura ?",Other,Harasser,False,False
+D_2,70,"‎27 / 04 / 18 , 14 : 45 - Bullo1 : NON LO LASCIAMO STARE",Threat_or_Blackmail,Harasser,False,False
+D_2,72,"‎27 / 04 / 18 , 14 : 46 - Bullo1 : Non lasceremo stare nemmeno te se continui",Threat_or_Blackmail,Harasser,False,False
+D_2,73,"‎27 / 04 / 18 , 14 : 47 - SupportoVittima1 : Stiamo parlado noi due cosa c ’ entra mi mamma",Defense,Bystander_defender,False,False
+D_2,75,"‎27 / 04 / 18 , 14 : 47 - Bullo1 : E tu bamboccio impara a fare i musical . ly e ginnastica hahaha",Insult-General_Insult,Harasser,False,False
+D_2,83,"‎27 / 04 / 18 , 14 : 50 - SupportoVittima1 : Ma basta lasciatelo stare ! ! 😤",Defense,Bystander_assistant,False,False
+D_2,85,"‎27 / 04 / 18 , 14 : 51 - Bullo1 : Bambocci",Insult-General_Insult,Harasser,False,False
+D_2,86,"‎27 / 04 / 18 , 14 : 51 - Bullo1 : Dai vai a giocare con le bambole",Insult-Discrimination-Sexism,Harasser,False,False
+D_2,87,"‎27 / 04 / 18 , 14 : 51 - SupportoVittima1 : No non lo capisco e voi non capite che dovete lasciare stare Vittima",Defense,Bystander_defender,False,False
+D_2,88,"‎27 / 04 / 18 , 14 : 52 - SupportoVittima1 : Non le ho non sono così bambina come voi",Defense,Bystander_defender,False,False
+D_2,89,"‎27 / 04 / 18 , 14 : 52 - Bullo1 : Allora sarà meglio che lo capisci",Threat_or_Blackmail,Harasser,False,False
+D_2,91,"‎27 / 04 / 18 , 14 : 52 - SupportoVittima1 : E anche per voi sarà meglio che lo capiate",Threat_or_Blackmail,Bystander_defender,False,False
+D_2,93,"‎27 / 04 / 18 , 14 : 53 - SupportoVittima1 : Sennò sarete nei guai",Threat_or_Blackmail,Bystander_defender,False,False
+D_2,94,"‎27 / 04 / 18 , 14 : 53 - Bullo1 : Zitta oca",Curse_or_Exclusion,Harasser,False,False
+D_2,96,"‎27 / 04 / 18 , 14 : 53 - SupportoVittima1 : Oca lo dici a qualcun altro ma non a me",Defense,Bystander_defender,False,False
+D_2,97,"‎27 / 04 / 18 , 14 : 54 - SupportoVittima1 : No pk siete voi che fate i bulli",Defense,Bystander_defender,False,False
+D_2,99,"‎27 / 04 / 18 , 14 : 55 - Bullo1 : Gallina",Insult-General_Insult,Harasser,False,False
+D_2,100,"‎27 / 04 / 18 , 14 : 55 - SupportoVittima1 : Ok allora sarete nei guai tutti quanti",Threat_or_Blackmail,Bystander_defender,False,False
+D_2,101,"‎27 / 04 / 18 , 14 : 57 - Bullo1 : Ti ci metto io nei guai !",Threat_or_Blackmail,Harasser,False,False
+D_2,102,"‎27 / 04 / 18 , 15 : 00 - SupportoBullo1 : SupportoVittima1 stai zitta ! Questa volta non hai voce in capitolo . . . hai visto il suo musical . ly ? È un ciccione di merda nient ’ altro",Insult-BodyShame,Bystander_assistant,False,False
+D_2,102,"‎27 / 04 / 18 , 15 : 00 - SupportoBullo1 : SupportoVittima1 stai zitta ! Questa volta non hai voce in capitolo . . . hai visto il suo musical . ly ? È un ciccione di merda nient ’ altro",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,103,"‎27 / 04 / 18 , 15 : 01 - Bullo1 : 👏 👏 👏",Encouragement_to_the_Harasser,Harasser,False,False
+D_2,104,"‎27 / 04 / 18 , 15 : 01 - SupportoVittima1 : Sapete solamente insultare la gente pk siete invidiose tutto qua",Defense,Bystander_defender,False,False
+D_2,105,"‎27 / 04 / 18 , 15 : 02 - SupportoBullo1 : Invidiosa ? io ? di quel ciccione ? non credo proprio",Insult-BodyShame,Bystander_assistant,False,False
+D_2,107,"‎27 / 04 / 18 , 15 : 02 - Bullo1 : Di avere tanta ciccia ?",Insult-BodyShame,Harasser,False,False
+D_2,109,"‎27 / 04 / 18 , 15 : 03 - SupportoVittima1 : Sapete solamente dire così",Defense,Bystander_defender,False,False
+D_2,112,"‎27 / 04 / 18 , 15 : 04 - SupportoVittima1 : Okay 💩",Insult-General_Insult,Bystander_defender,False,False
+D_2,114,"‎27 / 04 / 18 , 15 : 16 - SupportoVittima2 : Ma lasciateli in pace che almeno lui è bravo a scuola",Defense,Bystander_defender,False,False
+D_2,116,"‎27 / 04 / 18 , 15 : 17 - Bullo1 : Zitta oca",Curse_or_Exclusion,Harasser,False,False
+D_2,117,"‎27 / 04 / 18 , 15 : 19 - SupportoVittima2 : Oca sarai tu",Insult-General_Insult,Bystander_defender,False,False
+D_2,119,"‎27 / 04 / 18 , 17 : 30 - Vittima : io posto quello che mi pare , ma chi credete di essere",Defense,Bystander_defender,False,False
+D_2,119,"‎27 / 04 / 18 , 17 : 30 - Vittima : io posto quello che mi pare , ma chi credete di essere",Defense,Victim,False,False
+D_2,124,"‎27 / 04 / 18 , 19 : 05 - SupportoVittima2 : Vittima lasciale stare sono solo invidiose per i tuoi voti e quindi vanno a cercare l unico tuo difetto",Defense,Bystander_defender,False,False
+D_2,125,"‎27 / 04 / 18 , 19 : 06 - SupportoBullo2 : Credici credici ahah",Other,Bystander_assistant,False,False
+D_2,127,"‎27 / 04 / 18 , 19 : 10 - SupportoBullo2 : Sarà pur bravo a scuola ma nel fare i musical . ly fa proprio cagare ahahaha",Insult-General_Insult,Bystander_assistant,False,False
+D_2,129,"‎27 / 04 / 18 , 19 : 14 - Bullo1 : Non sa fare nemmeno ginnastica , sembra un bisonte quando corre !",Insult-BodyShame,Harasser,False,False
+D_2,130,"‎27 / 04 / 18 , 19 : 15 - SupportoBullo1 : L ’ unica cosa che non sa fare ? C ’ è una lista lunga 3 km di tutti i suoi difetti tra cui musical . ly e ginnastica",Insult-General_Insult,Bystander_assistant,False,False
+D_2,131,"‎27 / 04 / 18 , 19 : 15 - SupportoBullo1 : Eh già",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,132,"‎27 / 04 / 18 , 19 : 15 - SupportoBullo2 : 😂ahahahah vero",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,136,"‎27 / 04 / 18 , 19 : 16 - SupportoVittima2 : Perché cos'è che ha detto di male ?",Defense,Bystander_defender,False,False
+D_2,138,"‎27 / 04 / 18 , 19 : 17 - SupportoBullo2 : Resta il fatto che è un Elefante 😂",Insult-BodyShame,Bystander_assistant,False,False
+D_2,139,"‎27 / 04 / 18 , 19 : 17 - SupportoBullo1 : È già abbastanza che esiste . . .",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,141,"‎27 / 04 / 18 , 19 : 17 - SupportoVittima2 : Ma stai tranquilla e zitta",Curse_or_Exclusion,Bystander_defender,False,False
+D_2,142,"‎27 / 04 / 18 , 19 : 17 - SupportoBullo2 : Tu stai zitta",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,143,"‎27 / 04 / 18 , 19 : 17 - Bullo1 : Zitta tu",Curse_or_Exclusion,Harasser,False,False
+D_2,144,"‎27 / 04 / 18 , 19 : 18 - SupportoVittima2 : Non spreco parole per voi",Defense,Bystander_defender,False,False
+D_2,146,"‎27 / 04 / 18 , 19 : 18 - Bullo1 : Nessuno ti ha chiesto nulla infatti 🤷‍♀",Curse_or_Exclusion,Harasser,False,False
+D_2,148,"‎27 / 04 / 18 , 19 : 19 - Bullo1 : Lei può parlare tu no",Curse_or_Exclusion,Harasser,False,False
+D_2,149,"‎27 / 04 / 18 , 19 : 19 - SupportoBullo2 : Esatto 😌",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,150,"‎27 / 04 / 18 , 19 : 20 - SupportoVittima2 : Ti ho detto che non spreco parole per te 🤐 🤐",Defense,Bystander_defender,False,False
+D_2,151,"‎27 / 04 / 18 , 19 : 20 - SupportoBullo2 : Allora smettila di parlare tesoro !",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,152,"‎27 / 04 / 18 , 19 : 20 - Bullo1 : Allora chiudi il becco",Curse_or_Exclusion,Harasser,False,False
+D_2,153,"‎27 / 04 / 18 , 19 : 21 - SupportoBullo2 : Già ahahah",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,154,"‎27 / 04 / 18 , 19 : 24 - SupportoVittima2 : Allora stai zitta",Curse_or_Exclusion,Bystander_defender,False,False
+D_2,155,"‎27 / 04 / 18 , 19 : 24 - SupportoBullo2 : Stai zitta tu",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,156,"‎27 / 04 / 18 , 19 : 27 - Bullo1 : Stai zitta tu che dici tanto di sprecare parole con noi .",Curse_or_Exclusion,Harasser,False,False
+D_2,157,"‎27 / 04 / 18 , 19 : 27 - Bullo1 : Chiudi la bocca .",Curse_or_Exclusion,Harasser,False,False
+D_2,163,"‎28 / 04 / 18 , 16 : 21 - SupportoBullo1 : È ancora un elefante",Insult-BodyShame,Bystander_assistant,False,False
+D_2,164,"‎28 / 04 / 18 , 16 : 22 - Bullo1 : Dimagrisci elefante",Insult-BodyShame,Harasser,False,False
+D_2,165,"‎28 / 04 / 18 , 16 : 22 - SupportoBullo2 : Ahahah ridooo",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+D_2,166,"‎28 / 04 / 18 , 16 : 23 - SupportoBullo2 : Ma ancor peggio a ginnastica ! Vedremo a scuola cosa farà ahah",Threat_or_Blackmail,Bystander_assistant,False,False
+D_2,167,"‎28 / 04 / 18 , 16 : 25 - Bullo1 : Iscriviti in palestra invece che perdere tempo a studiare !",Insult-BodyShame,Bystander_assistant,False,False
+D_2,168,"‎28 / 04 / 18 , 16 : 25 - SupportoBullo2 : Esatto ahah",Encouragement_to_the_Harasser,Harasser,False,False
+D_2,169,"‎28 / 04 / 18 , 16 : 25 - SupportoBullo1 : Ma quanto sfigato può essere quel cesso hahah",Insult-General_Insult,Bystander_assistant,False,False
+D_2,169,"‎28 / 04 / 18 , 16 : 25 - SupportoBullo1 : Ma quanto sfigato può essere quel cesso hahah",Insult-BodyShame,Bystander_assistant,False,False
+D_2,170,"‎28 / 04 / 18 , 16 : 26 - Bullo1 : Appena vedo il cesso mi viene in mente Vittima hahaha",Insult-BodyShame,Harasser,False,False
+D_2,171,"‎28 / 04 / 18 , 17 : 14 - SupportoVittima2 : Che simpatiche ma sapete farvi gli affari vostri ?",Defense,Bystander_defender,False,False
+D_2,171,"‎28 / 04 / 18 , 17 : 14 - SupportoVittima2 : Che simpatiche ma sapete farvi gli affari vostri ?",Insult-General_Insult,Bystander_defender,False,False
+D_2,173,"‎28 / 04 / 18 , 18 : 46 - Bullo1 : Chi vi ha chiesto cosa ?",Curse_or_Exclusion,Harasser,False,False
+D_2,175,"‎28 / 04 / 18 , 18 : 57 - SupportoBullo2 : Ma stai zitta",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,177,"‎28 / 04 / 18 , 18 : 58 - SupportoBullo2 : Chiudi la bocca",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,178,"‎28 / 04 / 18 , 18 : 59 - SupportoVittima2 : Sisi sposta la concentrazione su di me visto che sai che con Vittima non hai ragione",Defense,Bystander_defender,False,False
+D_2,179,"‎28 / 04 / 18 , 19 : 01 - SupportoBullo2 : Ahah quel bidone ha ragione ? Pff",Insult-BodyShame,Bystander_assistant,False,False
+D_2,182,"‎28 / 04 / 18 , 19 : 25 - Vittima : Sarete bravi voi . Ho fatto vedere il video ai miei amici ( AMICI VERI ! ! ! ) e a loro è piaciuto !",Defense,Victim,False,False
+D_2,183,"‎28 / 04 / 18 , 19 : 25 - Bullo1 : Evidentemente non ci vedono bene hahahha",Insult-Attacking_relatives,Harasser,False,False
+D_2,189,"‎28 / 04 / 18 , 19 : 29 - Bullo1 : Non mi interessa un grassone di merda",Insult-BodyShame,Harasser,False,False
+D_2,190,"‎28 / 04 / 18 , 19 : 41 - SupportoVittima2 : Allora se non ti interessava non dovevi neanche commentare il suo musically",Defense,Bystander_defender,False,False
+D_2,191,"‎28 / 04 / 18 , 19 : 42 - Bullo1 : Faccio quello che voglio .",Defense,Harasser,False,False
+D_2,194,"‎28 / 04 / 18 , 19 : 44 - Bullo1 : Cazzo ridi ?",Defense,Harasser,False,False
+D_2,196,"‎28 / 04 / 18 , 19 : 45 - Bullo1 : Cazzo ridi ?",Defense,Harasser,False,False
+D_2,199,"‎28 / 04 / 18 , 19 : 47 - SupportoVittima2 : E questo cosa c'entra ?",Defense,Bystander_defender,False,False
+D_2,202,"‎28 / 04 / 18 , 20 : 55 - SupportoVittima2 : Ti stai arrampicando sugli specchi bella",Other,Bystander_defender,False,False
+D_2,203,"‎28 / 04 / 18 , 21 : 03 - Bullo1 : Non mi sto arrampicano da nessuna parte sei che ti attacchi alle palle",Defense,Harasser,False,False
+D_2,204,"‎29 / 04 / 18 , 11 : 55 - SupportoVittima2 : 👎fai solo ridere",Insult-General_Insult,Bystander_defender,False,False
+D_2,205,"‎29 / 04 / 18 , 11 : 57 - SupportoBullo1 : Ridi ridi che poi mercoledì piangerai",Threat_or_Blackmail,Bystander_assistant,False,False
+D_2,206,"‎29 / 04 / 18 , 11 : 57 - SupportoBullo1 : Goditi questi giorni",Threat_or_Blackmail,Bystander_assistant,False,False
+D_2,208,"‎29 / 04 / 18 , 12 : 02 - SupportoBullo2 : Chiudi la bocca",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,209,"‎29 / 04 / 18 , 12 : 06 - SupportoBullo1 : SupportoVittima2 tappati quella cazzo di bocca",Curse_or_Exclusion,Bystander_assistant,False,False
+D_2,210,"‎29 / 04 / 18 , 12 : 06 - SupportoBullo1 : Sul serio difendi quel bisonte ?",Insult-BodyShame,Bystander_assistant,False,False

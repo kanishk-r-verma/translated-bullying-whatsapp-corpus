@@ -1,0 +1,512 @@
+File,SentenceNumber,Sentence,Translation,EntityType,Role,Sarcasm,NonOffensive
+A_1,6,‪Bullo1‬ : Tu che sei un maschio,‪Bullo1 : You who are a male,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,7,‪SupportoBullo2‬ : Infatti ti sembra normale ? ? &#128514; &#128514;,"‪SupportoBullo2 : Actually, does it seem normal to you? ? &#128514;  &#128514",Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,9,‪Bullo1‬ : No è da femmine,"‪Bullo1 : No, it's for girls.",Insult-Discrimination-Sexism,Harasser,False,False
+A_1,13,‪SupportoBullo2‬ : che balla come un idiota &#128514;,‪SupportoBullo2 : who dances like an idiot &#128514,Insult-General_Insult,Bystander_assistant,False,False
+A_1,14,Vittima : Ma cosa c'è di male ?,Vittima : What's wrong with that?,Defense,Victim,False,False
+A_1,16,‪SupportoVittima3‬ : Vittima non ascoltarli,"‪SupportoVittima3 : Vittima, don't listen to them.",Defense,Bystander_defender,False,False
+A_1,17,‪Bullo1‬ : Ma vai a fae calcio femminuccia che non sei altro,"‪Bullo1 : Go play soccer, you sissy!",Insult-Discrimination-Sexism,Harasser,False,False
+A_1,18,‪SupportoBullo2‬ : Bullo1 ha ragione ! ! ! ! !,‪SupportoBullo2 : Bullo1 is right ! ! ! ! !,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_1,22,‪Bullo1‬ : Tra l'altro femmine come te,‪Bullo1 : females like you by the way,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,24,"‪SupportoVittima3‬ : Lasciali stare , se ti piace ballare balla , se ti piace cantare canta , senza pregiudizi &#128076;","‪SupportoVittima3 : Leave them alone, if you like to dance, dance, if you like to sing, sing, free of prejudice &#128076;",Defense,Bystander_defender,False,False
+A_1,28,‪SupportoBullo2‬ : Smerdati alla grande,‪SupportoBullo2 : You have been brilliantly shamed,Insult-General_Insult,Bystander_assistant,False,False
+A_1,29,Vittima : Grazie . Ma se a me piace ballare e a Bullo1 piace giocare a rugby che problema ci sarebbe ?,"Vittima : Thank you. But if I like to dance and Bullo1 likes to play rugby, what would be the problem?",Defense,Victim,False,False
+A_1,33,‪Bullo1‬ : Sei così effemminato che intorno a te ci sono più finocchi che in un orto,‪Bullo1 : You're so effeminate that there are more pansies around you than in a garden.,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,35,‪SupportoVittima1‬ : Ma cosa vi importa a voi se lui balla ? Se non vi piace ballare non andate neanche a vederlo . Io sicuramente ci saró,‪SupportoVittima1 : But why do you care if he dances ? If you don't like dancing don't even go to see him. I'll be there for sure,Defense,Bystander_defender,False,False
+A_1,37,‪Bullo1‬ : Ma per ridere e prenderlo in giro,‪Bullo1 : Just to laugh and make fun of him.,Threat_or_Blackmail,Harasser,False,False
+A_1,38,‪SupportoVittima3‬ : Sei un MOSTRO,‪SupportoVittima3 : You are a MONSTER,Insult-General_Insult,Bystander_defender,False,False
+A_1,39,‪SupportoVittima1‬ : Non ha senso lasciatelo stare,"‪SupportoVittima1 : It's nonsense, leave him alone",Defense,Bystander_defender,False,False
+A_1,41,‪SupportoBullo2‬ : Ci sarò ovviamente alla figuraccia che farà Vittima,‪SupportoBullo2 : Of course I'll be there when Vittima will make a fool of himself.,Insult-General_Insult,Bystander_assistant,False,False
+A_1,42,‪SupportoVittima3‬ : FORZA Vittima io credo in te,"‪SupportoVittima3 : Come on Vittima, I believe in you",Defense,Bystander_defender,False,False
+A_1,43,‪SupportoBullo2‬ : L unico finocchio che ballerà insieme alle ragazze,‪SupportoBullo2 : The only fag who will dance with the girls,Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,44,‪SupportoVittima1‬ : Ma vorrei vederti io ballare ! Sicuramente è più bravo di voi,‪SupportoVittima1 : But I'd like to see you dance! I'm sure he's better than you.,Defense,Bystander_defender,False,False
+A_1,45,‪Bullo1‬ : Farò stampare Delle magliette con te in tutù,‪Bullo1 : I'll have T-shirts printed with you wearing a tutu.,Threat_or_Blackmail,Harasser,False,False
+A_1,46,‪SupportoBullo2‬ : Grande Bullo1 &#128514;,‪SupportoBullo2 : Great Bullo1 &#128514,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_1,47,‪SupportoVittima3‬ : Invece e` fortunatissimo,‪SupportoVittima3 : he is very lucky instead,Defense,Bystander_defender,False,False
+A_1,51,‪Bullo1‬ : Ma se è Gay,‪Bullo1 : But if he is gay,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,52,‪SupportoBullo2‬ : Non gli importa niente delle ragazze ma appena vede un uomo si eccita &#128514;,‪SupportoBullo2 : He doesn't care about girls but as soon as he sees a man he gets excited &#128514,Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,55,‪SupportoVittima3‬ : Ma cosa vi ha fatto ?,‪SupportoVittima3 : What has he done to you ?,Defense,Bystander_defender,False,False
+A_1,59,‪SupportoVittima3‬ : Ma se sapete che la VOSTRA verità può fare male a qualcuno tacete e basta dite di non venire e il problema finisce qua`,"‪SupportoVittima3 : But if you know that YOUR truth can hurt someone just shut up, say you will not go and the problem ends here",Defense,Bystander_defender,False,False
+A_1,67,‪Bullo2‬ : Ma smettetela è una cosa stupida ! ! Ve lo immaginate lui che balla ? ? ?,‪Bullo2 : Stop it. This is stupid! ! Can you imagine him dancing? ? ?,Insult-General_Insult,Harasser,False,False
+A_1,69,‪Bullo2‬ : Farebbe troppo ridere &#128514; &#128514; &#128514;,‪Bullo2 : It would be too funny &#128514;  &#128514;  &#128514,Insult-General_Insult,Harasser,False,False
+A_1,70,‪SupportoVittima3‬ : Si e secondo me è anche bravo,"‪SupportoVittima3 : Yes, and I think he's very good.",Defense,Bystander_defender,False,False
+A_1,71,Vittima : Ma se non mi avete mai visto ballare come potete giudicare ?,Vittima : But if you have never seen me dance how can you judge?,Defense,Victim,False,False
+A_1,75,‪Bullo2‬ : Lui ? Bravo ? Si a fare figuracce di sicuro,‪Bullo2 : How about him? Good? Yes to make a fool of himself for sure.,Insult-General_Insult,Harasser,False,False
+A_1,76,‪Bullo1‬ : Vedremo quanto sei brava Vittima,"‪Bullo1 : We'll see how good you are, Vittima.",Threat_or_Blackmail,Harasser,False,False
+A_1,77,‪Bullo2‬ : Già bravissima immagino,‪Bullo2 : Already very good I imagine,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,81,‪SupportoBullo2‬ : Non avresti fatto la figura del deficiente ballerino,‪SupportoBullo2 : You wouldn't have looked like a dancing idiot.,Insult-General_Insult,Bystander_assistant,False,False
+A_1,84,‪Bullo2‬ : Io già me lo immagino tutto rosso in viso che balla come un femminuccia &#128514; &#128514; &#128514;,‪Bullo2 : I can already imagine him all red in the face dancing like a sissy &#128514;  &#128514;  &#128514,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,85,‪Bullo2‬ : Smettila di difenderlo tanto lo sai anche tu che verrà fuori una schifezza,"‪Bullo2 : Stop defending him, you know it will be a piece of crap.",Insult-General_Insult,Harasser,False,False
+A_1,87,‪SupportoVittima3‬ : Non è vero,‪SupportoVittima3 : It's not true!,Defense,Bystander_defender,False,False
+A_1,94,‪Bullo2‬ : Di sicuro un cane è più bravo di lui,‪Bullo2 : Surely a dog is better than him,Insult-General_Insult,Harasser,False,False
+A_1,95,‪SupportoBullo2‬ : Con la grazia di un elefante &#128514;,‪SupportoBullo2 : With the grace of an elephant &#128514,Insult-BodyShame,Bystander_assistant,False,False
+A_1,96,‪SupportoVittima1‬ : Ma se diventasse come Roberto Bolle ?,‪SupportoVittima1 : What if he became like Roberto Bolle?,Defense,Bystander_defender,False,False
+A_1,100,‪SupportoBullo2‬ : Chi cacchio è il più finocchio dell universo ?,‪SupportoBullo2 : Who is the biggest fag in the universe?,Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,101,‪SupportoVittima3‬ : Okay ci sarò a fare il tifo x te ( in modo positivo ),‪SupportoVittima3 : Okay I'll be there to cheer  you  in a good way),Defense,Bystander_defender,False,False
+A_1,102,‪Bullo2‬ : Bravi vai ad allenarti così magari farai una figura un po' più decente,"‪Bullo2 : Well done,  go and practice so maybe you will make a little more decent impression.",Insult-General_Insult,Harasser,False,False
+A_1,103,‪Bullo2‬ : Ma non credo,‪Bullo2 : I don't think so.,Other,Harasser,False,False
+A_1,104,‪SupportoVittima3‬ : Voglio vederti te a ballare saresti un pinguino . . . sicuro,"‪SupportoVittima3 : I want to see you dancing, you'd be like a penguin . . . for sure",Insult-General_Insult,Bystander_assistant,False,False
+A_1,107,‪Bullo2‬ : Beh un pinguino balla sicuramente meglio di Vittima,"‪Bullo2 : Well, a penguin certainly dances better than Vittima .",Insult-General_Insult,Harasser,False,False
+A_1,110,‪Bullo2‬ : Sembra ebete,‪Bullo2 : He looks like an idiot,Insult-General_Insult,Harasser,False,False
+A_1,112,"‪Bullo2‬ : Poverino , non augurerei questa fine a nessuno","‪Bullo2 : Poor guy, I wouldn't wish this on anyone.",Insult-General_Insult,Harasser,False,False
+A_1,118,‪Bullo2‬ : Io penso solo che Vittima stia facendo una cosa stupida,‪Bullo2 : I just think that Vittima is doing something stupid,Insult-General_Insult,Harasser,False,False
+A_1,119,‪Bullo2‬ : Molto stupida,‪Bullo2 : Very stupid.,Insult-General_Insult,Harasser,False,False
+A_1,120,‪SupportoVittima3‬ : Lascialo fare,‪SupportoVittima3 : Let him do it,Defense,Bystander_defender,False,False
+A_1,121,‪Bullo2‬ : Ma smettetela che quando gli diciamo che è messo male va a piangere dalla mammina,‪Bullo2 : Stop it. When we tell him he's a  mess he goes crying to his mommy.,Defamation,Harasser,False,False
+A_1,124,‪SupportoVittima3‬ : Allora cosa giudichi,‪SupportoVittima3 : Then why do you judge,Defense,Bystander_defender,False,False
+A_1,128,‪Bullo2‬ : Sarà lì davanti a tutti che gli tireranno pomodori addosso,‪Bullo2 : He'll be there in front of everyone throwing tomatoes at him.,Insult-General_Insult,Harasser,False,False
+A_1,137,‪Bullo2‬ : Penso che gli unici biglietti comprati sono quelli di sua mamma e i altri due vostri &#128514; &#128514;,‪Bullo2 : I think the only tickets which were bought are those of his mom and the two for you &#128514;  &#128514,Curse_or_Exclusion,Harasser,False,False
+A_1,139,‪SupportoVittima3‬ : Taci vala`,‪SupportoVittima3 : Shut up!,Defense,Bystander_defender,False,False
+A_1,152,‪Bullo2‬ : Frocioooo,‪Bullo2 : Faggot,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,153,‪SupportoBullo2‬ : Vittima non ha speranze è solo un ragazzo disperato che crede di essere figo facendo il gay a danza,"‪SupportoBullo2 : Vittima has no chance. He's just a desperate guy who thinks he's cool, playing gay at ballet.",Insult-General_Insult,Bystander_assistant,False,False
+A_1,153,‪SupportoBullo2‬ : Vittima non ha speranze è solo un ragazzo disperato che crede di essere figo facendo il gay a danza,"‪SupportoBullo2 : Vittima has no chance. He's just a desperate guy who thinks he's cool, playing gay at ballet.",Insult-General_Insult,Bystander_assistant,False,False
+A_1,153,‪SupportoBullo2‬ : Vittima non ha speranze è solo un ragazzo disperato che crede di essere figo facendo il gay a danza,"‪SupportoBullo2 : Vittima has no chance. He's just a desperate guy who thinks he's cool, playing gay at ballet.",Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,153,‪SupportoBullo2‬ : Vittima non ha speranze è solo un ragazzo disperato che crede di essere figo facendo il gay a danza,"‪SupportoBullo2 : Vittima has no chance. He's just a desperate guy who thinks he's cool, playing gay at ballet.",Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,154,‪Bullo2‬ : SupportoBullo2 ha ragione,‪Bullo2 : SupportoBullo2 is right,Encouragement_to_the_Harasser,Harasser,False,False
+A_1,158,‪Bullo2‬ : Meglio se cadi e muori,‪Bullo2 : Better if you fall down and die.,Curse_or_Exclusion,Harasser,False,False
+A_1,160,‪SupportoBullo1‬ : Che finocchietto,‪SupportoBullo1 : What a little faggot,Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,167,‪SupportoBullo2‬ : Ma io non ci provo neanche pk se tu non hai il ca**o e riesci a fare questi movimenti . . . vuoi un applauso ?,‪SupportoBullo2 : But I don't even try because if you don't have a dick and can make these movements . . . . do you want a round of applause?,Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,169,‪Bullo2‬ : Vuoi solo attenzioni che non ti meriti,‪Bullo2 : You just want attention you don't deserve.,Curse_or_Exclusion,Harasser,False,False
+A_1,173,‪SupportoBullo1‬ : Ti credi figo solo pk sai fare quella cazzo di danza,‪SupportoBullo1 : You only think you're cool because you know how to do that f***ing dance.,Insult-General_Insult,Bystander_assistant,False,False
+A_1,174,‪Bullo2‬ : E invece non sai fare nemmeno quella,‪Bullo2 : You can't even do that.,Defamation,Harasser,False,False
+A_1,175,‪SupportoBullo1‬ : Grande Bullo2,‪SupportoBullo1 : Great Bullo2,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_1,176,‪Bullo2‬ : Secondo me sarai bravo per i muri,‪Bullo2 : I think you'll be good for the walls.,Insult-General_Insult,Harasser,True,False
+A_1,177,‪Bullo2‬ : Magari nemmeno per loro,‪Bullo2 : Maybe not even for them,Insult-General_Insult,Harasser,False,False
+A_1,178,‪SupportoBullo2‬ : Ma sicuro che al saggio ti hanno preso &#129315;o fai l infiltrato per fare una figuraccia,‪SupportoBullo2 : But are you sure you have been selected for the recital &#129315,Defamation,Bystander_assistant,False,False
+A_1,179,‪Bullo2‬ : Faresti meglio a non presentarti al saggio,‪Bullo2 : You'd better not come to the recital.,Curse_or_Exclusion,Harasser,False,False
+A_1,184,‪SupportoBullo1‬ : Faresti meglio a morire,‪SupportoBullo1 : You’d be better off dead,Curse_or_Exclusion,Bystander_assistant,False,False
+A_1,186,‪Bullo2‬ : Non mangiare tanto o diventi ancora più obeso,‪Bullo2 : Don't eat so much or you will become even more obese,Insult-BodyShame,Harasser,False,False
+A_1,187,‪SupportoBullo2‬ : Poi chi ti vuole vedere &#128514;,"‪SupportoBullo2 : Then, who wants to see you &#128514",Curse_or_Exclusion,Bystander_assistant,False,False
+A_1,188,‪Bullo2‬ : In realtà non ti vuole vedere nessuno nemmeno adesso,"‪Bullo2 : No one really wants to see you, not even now.",Curse_or_Exclusion,Harasser,False,False
+A_1,189,‪SupportoBullo2‬ : Buona notte a tutti gli etero,‪SupportoBullo2 : Good night to all the straight people,Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,191,‪SupportoVittima1‬ : Smettila i chiamarlo così,‪SupportoVittima1 : Stop calling him that.,Defense,Bystander_defender,False,False
+A_1,194,‪Bullo2‬ : Tanto usa la testa solo per separare le orecchie,‪Bullo2 : He only uses his head to separate his ears.,Insult-General_Insult,Harasser,False,False
+A_1,195,Vittima : ma ancora con me ce l'avete ?,Vittima : Are you still targeting me?,Defense,Victim,False,False
+A_1,196,Vittima : Ma non avete di meglio da fare ?,Vittima : Don't you have better things to do?,Defense,Victim,False,False
+A_1,197,"‪SupportoVittima1‬ : Appunto , lasciatelo stare","‪SupportoVittima1 : That's right, leave him alone",Defense,Bystander_defender,False,False
+A_1,198,‪SupportoVittima3‬ : Lasciatelo in pace,‪SupportoVittima3 : Leave him alone,Defense,Bystander_defender,False,False
+A_1,199,‪SupportoVittima3‬ : Lasciatelo in pace almeno per 2 ore,‪SupportoVittima3 : Leave him alone for at least 2 hours.,Defense,Bystander_assistant,False,False
+A_1,200,‪SupportoVittima3‬ : Cosa vi ha fatto,‪SupportoVittima3 : what did he/she do to you,Defense,Bystander_assistant,False,False
+A_1,203,‪Bullo2‬ : No ma non è una cosa che fanno u maschi,"‪Bullo2 : No, but it's not something that males do.",Insult-Discrimination-Sexism,Harasser,False,False
+A_1,219,‪Bullo2‬ : Quindi gli ignoranti siete voi,‪Bullo2 : So you're the ignorant ones.,Insult-General_Insult,Harasser,False,False
+A_1,220,‪Bullo2‬ : Io continuo a pensare che sia frocio,‪Bullo2 : I still think he's a fag.,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,224,‪Bullo1‬ : Ma Vittima non è una femmina è una ballerina,"‪Bullo1 : But Vittima isn't a girl, she's a dancer.",Insult-Discrimination-Sexism,Harasser,False,False
+A_1,225,‪Bullo1‬ : Vittima è così poco maschio che se si sposa il parroco lo dichiara moglie e moglie,"‪Bullo1 : Vittima is so unmanly that if he marries, the pastor will declare him wife and wife",Insult-Discrimination-Sexism,Harasser,False,False
+A_1,229,Vittima : Anche tu ti ci metti ?,Vittima : You too?,Defense,Victim,False,False
+A_1,236,‪Bullo1‬ : Così divento obeso anche io,‪Bullo1 : This way I’ll become obese too,Insult-BodyShame,Harasser,False,False
+A_1,239,"‪Bullo2‬ : Io non dico che al saggio Vittima farà schifo , dico solo che invidio i non vedenti","‪Bullo2 : I'm not saying Vittima will suck at the recital , I'm just saying I envy the visually impaired.",Other,Harasser,False,False
+A_1,241,"Vittima : Mi sa che i ciechi siete voi che non volete vedere . E vedete solo le cose che volete voi , senza capire gli altri .","Vittima : I think you are the blind who don't want to see. And you see only the things you want , without understanding the others .",Defense,Victim,False,False
+A_1,242,"‪SupportoVittima1‬ : Ma mi spiegate , pensandoci prima di scrivere , perchè lo indultate in questa maniera ? Saranno cavolacci suoi se fa danza ? Se a voi non interessa non andate neanche al saggio ! Lui è solo statp gentile a invitarvi !","‪SupportoVittima1 : But explain to me, thinking about it before writing, why do you insult him in this way? It is his business if he dances! If you are not interested, don't even go to the recital! He was just kind enough to invite you!",Defense,Bystander_defender,False,False
+A_1,243,‪Bullo2‬ : Poteva evitare di fare la figura del finocchio non invitandoci,‪Bullo2 : He could have avoided making the impression of a fag by not inviting us,Insult-Discrimination-Sexism,Harasser,False,False
+A_1,246,‪Bullo2‬ : Non c'era nessuno che voleva venire a vederlo,‪Bullo2 : No one wanted to come and see him.,Curse_or_Exclusion,Harasser,False,False
+A_1,251,‪Bullo2‬ : Ma secondo me i neuroni che funzionano nella sua testa sono un po' meno di zero,‪Bullo2 : But I think the neurons working in his head are a little less than zero.,Insult-General_Insult,Harasser,False,False
+A_1,254,‪Bullo2‬ : Ma dai ! Pensi davvero che nella sua testa ci siano neuroni funzionanti ?,‪Bullo2 : Come on! Do you really think he has functioning neurons in his head?,Insult-General_Insult,Harasser,False,False
+A_1,259,‪SupportoVittima3‬ : Allora siete solo dei idioti a fare queste discriminazioni,‪SupportoVittima3 : Then you're just idiots to discriminate in this way.,Insult-General_Insult,Bystander_defender,False,False
+A_1,263,"‪SupportoVittima3‬ : Non è vero , sono sicura che è il + bravo del corso","‪SupportoVittima3 : It is not true, I'm sure he's the best in the class.",Defense,Bystander_defender,False,False
+A_1,265,‪SupportoBullo2‬ : Bullo2 ha ragione,‪SupportoBullo2 : Bullo2 is right,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_1,273,‪Bullo2‬ : Non sarà mica andato a piangere da sua mamma,"‪Bullo2 : Wait, he didn't go crying to his mother, did he?",Defamation,Harasser,False,False
+A_1,274,‪SupportoVittima3‬ : A detto che è ad allenamento . . . lo accendi il cervello ogni'tanto ? &#129300;,‪SupportoVittima3 : He  said he is at practice. . . do you turn on your brain sometimes? &#129300,Insult-General_Insult,Bystander_defender,False,False
+A_1,279,‪SupportoVittima3‬ : Ti fai i c**** tuoi,‪SupportoVittima3 : Mind your own f***king business,Curse_or_Exclusion,Bystander_defender,False,False
+A_1,286,"‪SupportoVittima3‬ : Può fare ciò che gli pare e piace e se ti va bene , bene se non ti va bene pazienza , ti tieni la boccaccia chiusa","‪SupportoVittima3 : He can do whatever he wants and if you like it, fine, if you don't like it, you can keep your mouth shut!",Defense,Bystander_defender,False,False
+A_1,290,‪Bullo2‬ : Vittima è debole,‪Bullo2 : Vittima is weak,Insult-General_Insult,Harasser,False,False
+A_1,292,‪SupportoVittima3‬ : Tu sarai debole,‪SupportoVittima3 : You must be weak,Insult-General_Insult,Bystander_defender,False,False
+A_1,299,‪SupportoVittima3‬ : Non ti permettere di parlare a me ed a Vittima in questo modo,‪SupportoVittima3 : Don't talk to me and Vittima like that!,Threat_or_Blackmail,Bystander_defender,False,False
+A_1,304,‪Bullo2‬ : Non mi puoi dire cosa fare e cosa no,‪Bullo2 : You can't tell me what to do and not to do.,Threat_or_Blackmail,Harasser,False,False
+A_1,305,‪SupportoVittima3‬ : E voi non potete offendere in questo modo Vittima che non vi ha fatto niente di male,‪SupportoVittima3 : And you can't offend  Vittima who has done nothing wrong to you.,Defense,Bystander_defender,False,False
+A_1,309,‪SupportoBullo1‬ : Se ê uno sfigato,‪SupportoBullo1 : If he is a loser,Insult-General_Insult,Bystander_assistant,False,False
+A_1,310,‪SupportoVittima3‬ : Perché dovrebbe esserlo ? ?,‪SupportoVittima3 : Why should it be? ?,Defense,Bystander_defender,False,False
+A_1,325,‪SupportoVittima3‬ : Vabbe` tanto la figura dello stupido la fai tu,"‪SupportoVittima3 : Well, it is you who look stupid anyway.",Insult-General_Insult,Bystander_defender,False,False
+A_1,332,‪SupportoBullo1‬ : Vittima e uno sfigato frocio,‪SupportoBullo1 : Vittima is a faggot loser.,Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_1,349,‪Bullo2‬ : La differenza tra Vittima e martedi ? Il martedì è grasso una sola volta all'anno,‪Bullo2 : The difference between Vittima and Tuesday? Tuesday is fat only once a year.,Insult-BodyShame,Harasser,False,False
+A_1,350,Vittima : Ma non sono grasso ! Ho perso molti chili proprio con la danza classica ! !,Vittima : But I'm not fat! I have lost many kilos precisely with the ballet! !,Defense,Victim,False,False
+A_1,351,‪SupportoVittima3‬ : Lasciali stare . . . si divertono e si lamentano per il gusto di farti soffrire,‪SupportoVittima3 : Let them be...they have fun and complain for the pleasure of making you suffer,Defense,Bystander_defender,False,False
+A_1,360,‪SupportoVittima3‬ : BASTAAAAAA,‪SupportoVittima3 : THAT’S ENOUGH,Defense,Bystander_defender,False,False
+A_1,361,‪SupportoVittima3‬ : Non é vero,‪SupportoVittima3 : That's not true.,Defense,Bystander_defender,False,False
+A_1,364,‪Bullo2‬ : Infatti quella che fai tu non è danza,"‪Bullo2 : In fact, what you do is not dancing.",Insult-General_Insult,Harasser,False,False
+A_1,366,‪SupportoVittima3‬ : Siete inrecuperabili,‪SupportoVittima3 : You're hopeless.,Defense,Bystander_defender,False,False
+A_1,373,‪Bullo2‬ : Come ho detto prima Vittima è debole,‪Bullo2 : As I said before Vittima is weak,Insult-General_Insult,Harasser,False,False
+A_1,374,‪SupportoVittima3‬ : Non è affatto vero,‪SupportoVittima3 : That's absolutely not true.,Defense,Bystander_defender,False,False
+A_1,377,"Vittima : hai ragione . Meglio che lascio perdere . Ma sono arrabbiato , mi da fastidio essere insultato senza motivo .","Vittima : You're right. I better let it go. But I'm angry, it bothers me to be insulted for no reason.",Defense,Victim,False,False
+A_1,382,‪SupportoVittima3‬ : Questa non se la meritava,‪SupportoVittima3 : He didn't deserve this.,Defense,Bystander_defender,False,False
+A_1,394,Vittima : Se trovo ancora insulti allora ne parlo con i miei genitori,Vittima : If I find more insults then I’ll talk to my parents.,Threat_or_Blackmail,Victim,False,False
+A_1,395,Vittima : o coi i prof,Vittima : or with the teachers.,Threat_or_Blackmail,Victim,False,False
+A_1,396,Vittima : poi vediamo,Vittima : we will see then,Threat_or_Blackmail,Victim,False,False
+A_2,11,Bullo2 : Io nn verrò pk so già che farai schifo &#128514;,Bullo2 : I won't come ‘cos I already know you will suck &#128514,Insult-General_Insult,Harasser,False,False
+A_2,12,"Bullo1 : Ahahah principessina , se vengo è solo per vederti in ridicolo davanti a tutti !","Bullo1 : Ahahah little princess, if I come it's just to see you making a fool of yourself in front of everyone !",Other,Harasser,False,False
+A_2,12,"Bullo1 : Ahahah principessina , se vengo è solo per vederti in ridicolo davanti a tutti !","Bullo1 : Ahahah little princess, if I come it's just to see you making a fool of yourself in front of everyone !",Other,Harasser,False,False
+A_2,12,"Bullo1 : Ahahah principessina , se vengo è solo per vederti in ridicolo davanti a tutti !","Bullo1 : Ahahah little princess, if I come it's just to see you making a fool of yourself in front of everyone !",Insult-Discrimination-Sexism,Harasser,False,False
+A_2,12,"Bullo1 : Ahahah principessina , se vengo è solo per vederti in ridicolo davanti a tutti !","Bullo1 : Ahahah little princess, if I come it's just to see you making a fool of yourself in front of everyone !",Insult-Discrimination-Sexism,Harasser,False,False
+A_2,15,SupportoVittima2 : Ma che ne sapete di come balla ?,SupportoVittima2 : What do you know about the way he dances?,Defense,Bystander_defender,False,False
+A_2,17,"Bullo1 : Ahahaha , anche solo il fatto che un maschio faccia danza classica . . . &#128514;","Bullo1 : Ahahaha, even just the fact that a boy does ballet . . . &#128514;",Insult-Discrimination-Sexism,Harasser,False,False
+A_2,18,Vittima &#128378; : perché che c'è di male nella danza ?,Vittima &#128378;  Because what's wrong with dance?,Defense,Victim,False,False
+A_2,20,Bullo2 : Ti credo che ti vergogni fai schifo &#128514;,"Bullo2 : No wonder you're ashamed, you suck &#128514",Insult-General_Insult,Harasser,False,False
+A_2,21,SupportoVittima3 : Magari è bravissimo,SupportoVittima3 : Maybe he's great.,Defense,Bystander_defender,False,False
+A_2,22,Bullo2 : No la danza è bella solo che tu la rovini &#128514;,Bullo2 : No dancing is great but you spoil it &#128514,Insult-General_Insult,Harasser,False,False
+A_2,23,"Bullo1 : Il fatto che tu sia maschio , e anche uno sfigato !","Bullo1 : The fact that you are a male , and also a loser !",Insult-General_Insult,Harasser,False,False
+A_2,23,"Bullo1 : Il fatto che tu sia maschio , e anche uno sfigato !","Bullo1 : The fact that you are a male , and also a loser !",Insult-General_Insult,Harasser,False,False
+A_2,23,"Bullo1 : Il fatto che tu sia maschio , e anche uno sfigato !","Bullo1 : The fact that you are a male , and also a loser !",Insult-Discrimination-Sexism,Harasser,False,False
+A_2,23,"Bullo1 : Il fatto che tu sia maschio , e anche uno sfigato !","Bullo1 : The fact that you are a male , and also a loser !",Insult-Discrimination-Sexism,Harasser,False,False
+A_2,24,Vittima &#128378; : Guarda che ci sono tanti ballerini bravissimi in giro,Vittima &#128378;  : There are so many great dancers around.,Defense,Victim,False,False
+A_2,27,"Bullo1 : Non sei ""un ballerino"" . Sei una femminuccia , vergognati .",Bullo1 : You're not “a dancer”. You're a sissy you should be ashamed.,Insult-Discrimination-Sexism,Harasser,False,False
+A_2,27,"Bullo1 : Non sei ""un ballerino"" . Sei una femminuccia , vergognati .",Bullo1 : You're not “a dancer”. You're a sissy you should be ashamed.,Insult-Discrimination-Sexism,Harasser,False,False
+A_2,27,"Bullo1 : Non sei ""un ballerino"" . Sei una femminuccia , vergognati .",Bullo1 : You're not “a dancer”. You're a sissy you should be ashamed.,Curse_or_Exclusion,Harasser,False,False
+A_2,27,"Bullo1 : Non sei ""un ballerino"" . Sei una femminuccia , vergognati .",Bullo1 : You're not “a dancer”. You're a sissy you should be ashamed.,Curse_or_Exclusion,Harasser,False,False
+A_2,29,Vittima &#128378; : infatti Bullo1 . . . ma perché dici che sono una femminuccia ?,Vittima &#128378;  Indeed Bullo1 . . . but why do you say I'm a sissy?,Defense,Victim,False,False
+A_2,30,"Bullo1 : Perché stai sulle palle a tutti , non sono l'unico a dirlo . . .","Bullo1 : Because you are a pain in the ass for everyone, I'm not the only one to say so. . .",Curse_or_Exclusion,Harasser,False,False
+A_2,31,SupportoBullo2 : Gia,SupportoBullo2 : Yep,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,34,"Vittima &#128378; : guarda che non ho fatto niente di male , mi piace solo ballare e non c'è niente di male . . . se vi sto sulle palle chi se ne frega","Vittima &#128378; : Look, I did nothing wrong, I just like to dance and there is nothing wrong with it . . If I'm a pain in the ass, who cares?",Defense,Victim,False,False
+A_2,36,"Bullo1 : Ma impara l'italiano , dislessico inutile","Bullo1 : Learn Italian, useless dyslexic.",Insult-General_Insult,Harasser,False,False
+A_2,39,SupportoVittima1 : Siete proprio dei bigoti,SupportoVittima1 : You guys are such bigots.,Insult-General_Insult,Bystander_defender,False,False
+A_2,40,SupportoBullo1 : Gia Bullo1 hai ragione &#128077; &#128526;,SupportoBullo1 : Yeah Bullo1 you are right &#128077;  &#128526,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,41,Bullo2 : Solo a sentire le parole Vittima e danza mi vien da vomitare,Bullo2 : Just hearing the words Vittima and dance makes me sick,Insult-General_Insult,Harasser,False,False
+A_2,42,SupportoBullo1 : Ha ha brava,SupportoBullo1 : Ha Ha good.,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,43,SupportoBullo2 : Ai proprio ragione,SupportoBullo2 : You're right.,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,44,SupportoBullo1 : &#128077; &#128077; &#128077;,SupportoBullo1 : &#128077; &#128077; &#128077;,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,47,"Bullo1 : Anche tu sei uno sfigato , ma come pochi ! !","Bullo1 : You too, you are a loser, like few others! !",Insult-General_Insult,Harasser,False,False
+A_2,48,SupportoBullo2 : Grande,SupportoBullo2 : Great,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,49,SupportoBullo1 : Bravodicibene Bullo1,SupportoBullo1 :  you are right Bullo1,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,54,Bullo1 : Tanto non ti caga nessuno,Bullo1 : Nobody gives a shit about you anyway,Curse_or_Exclusion,Harasser,False,False
+A_2,56,Vittima &#128378; : tanto non vi volevo . . . e poi non capite nulla di danza,Vittima &#128378;  I didn't want to see you anyway. You don't know anything about dance.,Defense,Victim,False,False
+A_2,57,"Bullo1 : ""Non vi volevo"" , ma stai zitto che se fosse per noi saresti già sotto terra .","Bullo1 : ""I didn't want you"", but shut up, if it were up to us you would already be buried.",Threat_or_Blackmail,Harasser,False,False
+A_2,59,Bullo2 : Tanto nn verrà nessuno tanto le merde si vedono anche per strada &#128514;,"Bullo2 : No one will come anyway, because the shit is visible on the street too &#128514",Insult-General_Insult,Harasser,False,False
+A_2,59,Bullo2 : Tanto nn verrà nessuno tanto le merde si vedono anche per strada &#128514;,"Bullo2 : No one will come anyway, because the shit is visible on the street too &#128514",Insult-General_Insult,Harasser,False,False
+A_2,59,Bullo2 : Tanto nn verrà nessuno tanto le merde si vedono anche per strada &#128514;,"Bullo2 : No one will come anyway, because the shit is visible on the street too &#128514",Curse_or_Exclusion,Harasser,False,False
+A_2,59,Bullo2 : Tanto nn verrà nessuno tanto le merde si vedono anche per strada &#128514;,"Bullo2 : No one will come anyway, because the shit is visible on the street too &#128514",Curse_or_Exclusion,Harasser,False,False
+A_2,61,Bullo1 : Se non vuoi più vederci ucciditi . . .,"Bullo1 : If you don't want to see us anymore, kill yourself . . .",Curse_or_Exclusion,Harasser,False,False
+A_2,62,SupportoVittima2 : Tanto a lui non serve la vostra approvazione per fare quello che vuole,SupportoVittima2 : He doesn't need your approval to do what he wants anyway,Defense,Bystander_defender,False,False
+A_2,63,SupportoBullo1 : Vai Bullo1 sei un grande,"SupportoBullo1 : Go Bullo1, you're great.",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,65,Bullo1 : Ma perché appoggiate sto sifgato,Bullo1 : But why do you support this loser,Insult-General_Insult,Harasser,False,False
+A_2,66,SupportoBullo1 : No nn lo so continua cosi Bullo1,"SupportoBullo1 : No I do not know, go on like that Bullo1",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,67,Bullo2 : Io nn sto dicendo che nn deve avere la nostra approvazione ma che in qualunque cosa faccia fa sempre schifo &#128514;,"Bullo2 : I am not saying that he must have our approval but that whatever it does, het always sucks &#128514",Insult-General_Insult,Harasser,False,False
+A_2,70,SupportoBullo1 : Ops fa schifo,SupportoBullo1 : Oops it/he sucks,Insult-General_Insult,Bystander_assistant,False,False
+A_2,71,Vittima &#128378; : dici che faccio schifo solo perché tu non sai danzare,Vittima &#128378;  You only say I suck because you can't dance.,Defense,Victim,False,False
+A_2,73,SupportoBullo3 : Bullo2 hai ragione &#129315; &#129315; &#129315;,SupportoBullo3 : Bullo2 you are right &#129315;  &#129315;,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,77,SupportoBullo3 : Ecco se nn sai stai zitto &#128566;,"SupportoBullo3 : if you don't know, shut up &#128566",Curse_or_Exclusion,Bystander_assistant,False,False
+A_2,79,Bullo1 : Mi piacerebbe solo pestarti,Bullo1 : I'd just like to beat you up.,Threat_or_Blackmail,Harasser,False,False
+A_2,83,SupportoBullo1 : &#128169; &#128169;,SupportoBullo1 : &#128169; &#128169;,Insult-General_Insult,Bystander_assistant,False,False
+A_2,85,SupportoBullo1 : Caccacacca,SupportoBullo1 :  Shit,Insult-General_Insult,Bystander_assistant,False,False
+A_2,87,"Vittima &#128378; : grandi , come siete simpatici ! ! !","Vittima &#128378; : Great, how nice you are! ! !",Insult-General_Insult,Victim,True,False
+A_2,88,SupportoBullo3 : E vabbè nn è colpa mia se ha ragione &#128514; &#128514;,"SupportoBullo3 : Well,  it is not my fault if he is right &#128514;  &#128514;",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,92,Bullo1 : Tu sei simpatico come una sprangate sui denti,Bullo1 : You're as pleasant as brass knuckles hitting your teeth.,Insult-General_Insult,Harasser,False,False
+A_2,95,SupportoBullo1 : O come la giunta sotto la scarpa,SupportoBullo1 : It's like the seam under your shoe.,Insult-General_Insult,Bystander_assistant,False,False
+A_2,96,SupportoBullo3 : Oppure la ciunga sotto il banco &#128514; &#128514; &#128514; &#128514;,SupportoBullo3 : Or the chewing gum under the desk &#128514; &#128514; &#128514; &#128514;,Insult-General_Insult,Bystander_assistant,False,False
+A_2,104,"Bullo1 : Uno sfigato , proprio come te ! &#128521;","Bullo1 : A loser, just like you! &#128521;",Insult-General_Insult,Harasser,False,False
+A_2,106,Vittima &#128378; : grande . comunque adesso vado ad allenarmi . . . chi se ne frega di quello che dite voi . Ci sentiamo domani . . . .,"Vittima &#128378;  Great. Anyway, I'm going to practice now. . I don't care what you say. I'll talk to you tomorrow. . . .",Defense,Victim,False,False
+A_2,109,"Bullo1 : Vai vai , magari non tornare .","Bullo1 : Go go, don't come back maybe.",Curse_or_Exclusion,Harasser,False,False
+A_2,112,SupportoVittima3 : Grande . Sabato sarai bravissimo se continui di così,SupportoVittima3 : Great . Saturday you'll be great if you continue like this,Defense,Bystander_defender,False,False
+A_2,114,Vittima &#128378; : Non importa cosa dicono gli altri,Vittima &#128378;  : No matter what anyone says,Defense,Victim,False,False
+A_2,115,SupportoVittima3 : Tu devi fare quello che ti piace,SupportoVittima3 : You have to do what you like.,Defense,Bystander_defender,False,False
+A_2,118,"Bullo1 : Ma chissenefrega . Non rovineremo la tua passione , ma rovineremo la tua vita !","Bullo1 :  who cares anyway. We won't ruin your passion, but we will ruin your life!",Threat_or_Blackmail,Harasser,False,False
+A_2,119,Bullo1 : Anche perché non ti caga nessuno,Bullo1 : Also because nobody gives a shit about you,Curse_or_Exclusion,Harasser,False,False
+A_2,120,Vittima &#128378; : Non è vero sei solo invidioso,Vittima &#128378;  : You're just jealous.,Defense,Victim,False,False
+A_2,122,Bullo1 : Tu non sei mai stato amico di nessuno,Bullo1 : You have never been a friend to anyone.,Curse_or_Exclusion,Harasser,False,False
+A_2,126,Bullo1 : Ahhahaha finochietto,Bullo1 : Ahhaha little fag,Insult-Discrimination-Sexism,Harasser,False,False
+A_2,128,"Bullo1 : Ma non interessi a nessuno , rifugiati nel mondo dei sogni , ti rimane solo quello , sfigato inutile !","Bullo1 : But no one cares about you, take refuge in the world of dreams, that's all you have left, useless loser!",Threat_or_Blackmail,Harasser,False,False
+A_2,128,"Bullo1 : Ma non interessi a nessuno , rifugiati nel mondo dei sogni , ti rimane solo quello , sfigato inutile !","Bullo1 : But no one cares about you, take refuge in the world of dreams, that's all you have left, useless loser!",Threat_or_Blackmail,Harasser,False,False
+A_2,128,"Bullo1 : Ma non interessi a nessuno , rifugiati nel mondo dei sogni , ti rimane solo quello , sfigato inutile !","Bullo1 : But no one cares about you, take refuge in the world of dreams, that's all you have left, useless loser!",Curse_or_Exclusion,Harasser,False,False
+A_2,128,"Bullo1 : Ma non interessi a nessuno , rifugiati nel mondo dei sogni , ti rimane solo quello , sfigato inutile !","Bullo1 : But no one cares about you, take refuge in the world of dreams, that's all you have left, useless loser!",Curse_or_Exclusion,Harasser,False,False
+A_2,129,"SupportoBullo2 : Ha proprio ragione , sei uno sfigato","SupportoBullo2 : He's quite right, you're a loser.",Insult-General_Insult,Bystander_assistant,False,False
+A_2,129,"SupportoBullo2 : Ha proprio ragione , sei uno sfigato","SupportoBullo2 : He's quite right, you're a loser.",Insult-General_Insult,Bystander_assistant,False,False
+A_2,129,"SupportoBullo2 : Ha proprio ragione , sei uno sfigato","SupportoBullo2 : He's quite right, you're a loser.",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,129,"SupportoBullo2 : Ha proprio ragione , sei uno sfigato","SupportoBullo2 : He's quite right, you're a loser.",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,130,Bullo2 : Ma se quello che gli piace lo rovina ( lui rovina la danza ),Bullo2 :  he ruins what  he likes (he ruins the dance),Defamation,Harasser,False,False
+A_2,131,Bullo2 : Ciao sfigato &#128514;,Bullo2 : Hi loser &#128514,Insult-General_Insult,Harasser,False,False
+A_2,132,Vittima &#128378; : Non sono sfigato,Vittima &#128378;  : I am not a loser,Defense,Victim,False,False
+A_2,136,Bullo2 : Che bravo bimbo &#128514;,Bullo2 : What a good little boy &#128514,Insult-General_Insult,Harasser,True,False
+A_2,138,Bullo2 : Anzi no che bravo sfigato,"Bullo2 : Actually no, such a good loser",Insult-General_Insult,Harasser,False,False
+A_2,143,SupportoBullo2 : &#128169;,SupportoBullo2 : &#128169,Insult-General_Insult,Bystander_assistant,False,False
+A_2,150,Bullo2 : Fai schifo,Bullo2 : You suck,Insult-General_Insult,Harasser,False,False
+A_2,151,Bullo2 : Nn voglio vederti,Bullo2 : I don't want to see you,Curse_or_Exclusion,Harasser,False,False
+A_2,153,Vittima &#128378; : O perché siete invidiosi ?,Vittima &#128378;  : Or because you're jealous?,Defense,Victim,False,False
+A_2,154,Bullo2 : Invidiosi di una merda che senso ha ? &#128514;,"Bullo2 : Jealous of a piece of shit, does that make sense? &#128514",Insult-General_Insult,Harasser,False,False
+A_2,156,Bullo2 : Da principessina,Bullo2 : Like a little princess,Insult-Discrimination-Sexism,Harasser,False,False
+A_2,160,Bullo2 : No perché faccio hip hop cretino,Bullo2 : No because I dance  hip hop idiot,Insult-General_Insult,Harasser,False,False
+A_2,162,Bullo2 : Si ma danza classica è da femminuccia come te,"Bullo2 : Yes, but ballet is for sissies like you.",Insult-Discrimination-Sexism,Harasser,False,False
+A_2,163,Vittima &#128378; : Non è proprio vero,Vittima &#128378;  : It's not really true.,Defense,Victim,False,False
+A_2,164,SupportoVittima2 : Ma perchè cretino che cazzo ne sapeva lui ?,"SupportoVittima2 : Why idiot, what the fuck did he know?",Defense,Bystander_defender,False,False
+A_2,164,SupportoVittima2 : Ma perchè cretino che cazzo ne sapeva lui ?,"SupportoVittima2 : Why idiot, what the fuck did he know?",Defense,Bystander_defender,False,False
+A_2,164,SupportoVittima2 : Ma perchè cretino che cazzo ne sapeva lui ?,"SupportoVittima2 : Why idiot, what the fuck did he know?",Insult-General_Insult,Bystander_defender,False,False
+A_2,164,SupportoVittima2 : Ma perchè cretino che cazzo ne sapeva lui ?,"SupportoVittima2 : Why idiot, what the fuck did he know?",Insult-General_Insult,Bystander_defender,False,False
+A_2,165,Bullo1 : Ma stai zitto sfigato,"Bullo1 : Shut up, you loser.",Insult-General_Insult,Harasser,False,False
+A_2,165,Bullo1 : Ma stai zitto sfigato,"Bullo1 : Shut up, you loser.",Insult-General_Insult,Harasser,False,False
+A_2,165,Bullo1 : Ma stai zitto sfigato,"Bullo1 : Shut up, you loser.",Curse_or_Exclusion,Harasser,False,False
+A_2,165,Bullo1 : Ma stai zitto sfigato,"Bullo1 : Shut up, you loser.",Curse_or_Exclusion,Harasser,False,False
+A_2,168,Bullo1 : Non concluderai mai niente nella vita .,Bullo1 : You'll never accomplish anything in life .,Curse_or_Exclusion,Harasser,False,False
+A_2,170,Bullo1 : Sei un impiastro,Bullo1 : You're a nuisance,Insult-General_Insult,Harasser,False,False
+A_2,171,Vittima &#128378; : Ms pensa per te,Vittima &#128378;  : But worry about yourself,Defense,Victim,False,False
+A_2,176,Bullo1 : Tu non diventerai famoso,Bullo1 : You won't become famous,Curse_or_Exclusion,Harasser,False,False
+A_2,177,Bullo1 : Sfigato inutile,Bullo1 : Useless loser,Insult-General_Insult,Harasser,False,False
+A_2,185,Bullo1 : Io so menarti,Bullo1 : I can beat you up,Threat_or_Blackmail,Harasser,False,False
+A_2,186,SupportoBullo2 : Bella questa,SupportoBullo2 : Nice one,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,187,"Vittima &#128378; : Bravo , voglio vedere","Vittima &#128378; :  Good boy, I want to see",Defense,Victim,False,False
+A_2,191,Bullo1 : Potresti finire male,Bullo1 : You could end up badly,Threat_or_Blackmail,Harasser,False,False
+A_2,192,Vittima &#128378; : Sicuro sono più atletico e so schivarti,Vittima &#128378;  : I'm more athletic and I can dodge you.,Defense,Victim,False,False
+A_2,201,Vittima &#128378; : Comunque ho deciso che parlerò con qualcuno delle vostre offese,"Vittima &#128378;  : Anyway, I've decided that I'll talk to someone about your insults.",Threat_or_Blackmail,Victim,False,False
+A_2,202,Vittima &#128378; : Avete rotto,Vittima &#128378;  : You are bothering ,Insult-General_Insult,Victim,False,False
+A_2,203,"Bullo1 : Parla pure , sfigato","Bullo1 : Go ahead and talk, loser",Threat_or_Blackmail,Harasser,False,False
+A_2,204,Vittima &#128378; : Sì poi vediamo cosa fai,Vittima &#128378;  : Yes then let's see what you do,Threat_or_Blackmail,Victim,False,False
+A_2,206,Bullo1 : Ma stai zitto,Bullo1 : Shut up!,Curse_or_Exclusion,Harasser,False,False
+A_2,207,"Bullo1 : Piangi tu , se ti prendo . NON OSARE DIRLO A NESSUNO , sfigato !","Bullo1 : You will cry , if I catch you . DO NOT DARE TELL ANYONE, loser!",Threat_or_Blackmail,Harasser,False,False
+A_2,207,"Bullo1 : Piangi tu , se ti prendo . NON OSARE DIRLO A NESSUNO , sfigato !","Bullo1 : You will cry , if I catch you . DO NOT DARE TELL ANYONE, loser!",Threat_or_Blackmail,Harasser,False,False
+A_2,207,"Bullo1 : Piangi tu , se ti prendo . NON OSARE DIRLO A NESSUNO , sfigato !","Bullo1 : You will cry , if I catch you . DO NOT DARE TELL ANYONE, loser!",Insult-General_Insult,Harasser,False,False
+A_2,207,"Bullo1 : Piangi tu , se ti prendo . NON OSARE DIRLO A NESSUNO , sfigato !","Bullo1 : You will cry , if I catch you . DO NOT DARE TELL ANYONE, loser!",Insult-General_Insult,Harasser,False,False
+A_2,208,Vittima &#128378; : Non puoi trattarmi così solo perché mi piace ballare,Vittima &#128378;  : You can't treat me like this just because I like to dance.,Defense,Victim,False,False
+A_2,209,Vittima &#128378; : Ma che ho fatto di male,Vittima &#128378;  : What did I do wrong?,Defense,Victim,False,False
+A_2,210,Bullo1 : Sei nato,Bullo1 : You were born,Curse_or_Exclusion,Harasser,False,False
+A_2,211,SupportoVittima2 : Cavolo vacci piano,"SupportoVittima2 : Damn, take it easy.",Defense,Bystander_defender,False,False
+A_2,214,Bullo1 : Ma che schifo,Bullo1 : That’s gross,Other,Harasser,False,False
+A_2,215,Bullo1 : Come te,Bullo1 : Like you,Insult-General_Insult,Harasser,False,False
+A_2,216,"Vittima &#128378; : Bullo1 vorrei che la smettessi . Mi fai star male , sono molto triste per questa storia . . . mi offendi sempre . Va bene che non ti sto simpatico , ma vorrei mi ignorassi . Così mi fai solo soffrire senza motivo","Vittima &#128378; : Bullo1 I wish you would stop. You upset me, I am very sad about this . . You always offend me. I know you don't like me, but I’d like you to ignore me. In this way, you make me suffer for no reason.",Defense,Victim,False,False
+A_2,218,SupportoVittima1 : Sta tranquillo che i tuoi veri amigos verranno di sicuro a vederti danzare &#128077;,"SupportoVittima1 : Don't worry, your real amigos will come to see you dance &#128077",Defense,Bystander_defender,False,False
+A_2,219,Bullo2 : Hai rovinato la danza,Bullo2 : You have ruined the ballet,Insult-General_Insult,Harasser,False,False
+A_2,220,Vittima &#128378; : Ne parlerò con i miei genitori poi voglio vedere se continuate ad offendermi,Vittima &#128378;  : I'll talk to my parents then I want to see if you continue to offend me.,Threat_or_Blackmail,Victim,False,False
+A_2,221,Bullo2 : Da quanto fai schifo anche i tuoi genitori ti prenderanno per il culo,Bullo2 : You're so disgusting that even your parents will make fun of you.,Insult-General_Insult,Harasser,False,False
+A_2,222,"Vittima &#128378; : Non è vero Bullo2 , tu e Bullo1 siete solo dei bulli e la pagherete , insieme a tutti gli altri che vi vengono dietro &#128170;","Vittima &#128378; : It is not true Bullo2, you and Bullo1 are just bullies and you will pay for it , along with all the others who come after you &#128170;",Threat_or_Blackmail,Victim,False,False
+A_2,222,"Vittima &#128378; : Non è vero Bullo2 , tu e Bullo1 siete solo dei bulli e la pagherete , insieme a tutti gli altri che vi vengono dietro &#128170;","Vittima &#128378; : It is not true Bullo2, you and Bullo1 are just bullies and you will pay for it , along with all the others who come after you &#128170;",Threat_or_Blackmail,Victim,False,False
+A_2,222,"Vittima &#128378; : Non è vero Bullo2 , tu e Bullo1 siete solo dei bulli e la pagherete , insieme a tutti gli altri che vi vengono dietro &#128170;","Vittima &#128378; : It is not true Bullo2, you and Bullo1 are just bullies and you will pay for it , along with all the others who come after you &#128170;",Defense,Victim,False,False
+A_2,222,"Vittima &#128378; : Non è vero Bullo2 , tu e Bullo1 siete solo dei bulli e la pagherete , insieme a tutti gli altri che vi vengono dietro &#128170;","Vittima &#128378; : It is not true Bullo2, you and Bullo1 are just bullies and you will pay for it , along with all the others who come after you &#128170;",Defense,Victim,False,False
+A_2,224,Vittima &#128378; : Vedrete,Vittima &#128378;  : You will see,Threat_or_Blackmail,Victim,False,False
+A_2,225,Vittima &#128378; : Non offenderete più nessuno ve lo prometto,Vittima &#128378;  : You will not offend anyone anymore I promise you,Threat_or_Blackmail,Victim,False,False
+A_2,231,SupportoBullo2 : Si si . . . Inizia a scappare,SupportoBullo2 : Yes yes . . . Start running,Threat_or_Blackmail,Bystander_assistant,False,False
+A_2,235,Bullo2 : È un no per dirci di nn venire al saggio pk farai schifo,Bullo2 : It is a no to tell us not to come to the recital ‘cos you will suck,Insult-General_Insult,Harasser,False,False
+A_2,242,Bullo2 : Questi siamo noi dopo aver visto il fallimento di Vittima anzi nn il fallimento ma lo schifo,"Bullo2 : This is us after seeing Vittima’s failure, actually not the failure but his disgusting performance.",Insult-General_Insult,Harasser,False,False
+A_2,254,Bullo1 : Ti rideranno in faccia,Bullo1 : They will laugh in your face,Threat_or_Blackmail,Harasser,False,False
+A_2,255,Bullo1 : Scarti della società,Bullo1 :  Rejects of society.,Curse_or_Exclusion,Harasser,False,False
+A_2,259,Bullo1 : Ti affogo nelle sabbie mobili,Bullo1 : I'll drown you in quicksand,Threat_or_Blackmail,Harasser,False,False
+A_2,260,Bullo1 : Sfigato,Bullo1 : Loser,Insult-General_Insult,Harasser,False,False
+A_2,264,Bullo2 : Nn me ne frega chi è mi interessa solo che tu faccia figure di merda per tutta la vita,"Bullo2 : I don't care who he is, I only care that you will look like shit for the rest of your life!",Curse_or_Exclusion,Harasser,False,False
+A_2,266,Vittima &#128378; : Avee rotto ! ! ! ! !,Vittima &#128378;  : You've had it! ! ! ! !,Defense,Victim,False,False
+A_2,268,Vittima &#128378; : Siete solo piccoli e invidiosi selle mie passioni ! ! ! ! ! !,Vittima &#128378;  : You are petty and envious of my passions ! ! ! ! ! !,Defense,Victim,False,False
+A_2,270,Vittima &#128378; : Voi siete vuoti e non avete passioni forti come la mia,Vittima &#128378;  : You're empty and you don't have strong passions like mine.,Defense,Victim,False,False
+A_2,272,"Bullo1 : Sfigato , ogni volta che parli a qualcuno nel modo iniziano a sanguinare le orecchie","Bullo1 : Loser, every time you talk to someone their ears start bleeding",Insult-General_Insult,Harasser,False,False
+A_2,273,Vittima &#128378; : Verità ? Voi sapete solo offendere,Vittima &#128378;  : Truth? You only know how to offend.,Defense,Victim,False,False
+A_2,274,"Bullo1 : Sì , uno sfigato","Bullo1 : Yes , a loser",Insult-General_Insult,Harasser,False,False
+A_2,276,Vittima &#128378; : dovreste essere sensibili,Vittima &#128378;  You should be sensitive,Defense,Victim,False,False
+A_2,279,Bullo2 : Noi siamo più forti di te quindi nn siamo sensibili,Bullo2 : We are stronger than you so we are not sensitive.,Insult-General_Insult,Harasser,False,False
+A_2,285,Bullo2 : Cioè nessuno,Bullo2 : That is to say nobody,Curse_or_Exclusion,Harasser,False,False
+A_2,286,Bullo2 : Anzi forse i tuoi simili le merde,Bullo2 : Or rather your fellow shits,Insult-General_Insult,Harasser,False,False
+A_2,294,Bullo2 : Ma è un nome da femmina &#128514;,Bullo2 : But it's a girl's name &#128514,Insult-Discrimination-Sexism,Harasser,False,False
+A_2,299,"Bullo1 : ""Tuo figlio"" Sei talmente brutto che neanche un palo della luce farebbe un figlio con te . . .","Bullo1 : ""Your son"" You are so ugly not even a light pole would have a son with you . . .",Insult-BodyShame,Harasser,False,False
+A_2,302,Vittima &#128378; : Non capiscono niente,Vittima &#128378;  : Do not understand anything,Defense,Victim,False,False
+A_2,304,Bullo1 : Sfigato,Bullo1 : Loser,Insult-General_Insult,Harasser,False,False
+A_2,307,Bullo1 : Ma stai zitto,Bullo1 : Shut up!,Curse_or_Exclusion,Harasser,False,False
+A_2,308,Bullo1 : Che sei talmente brutto che neanche una supposta ti si incula,"Bullo1 : You're so ugly, not even a suppository would fuck you.",Insult-BodyShame,Harasser,False,False
+A_2,309,Vittima &#128378; : Solo frasi fatte,Vittima &#128378;  : Only sentences ,Defense,Victim,False,False
+A_2,310,"Bullo1 : Ah , perché le tue prese da altri sfigato come te ?","Bullo1 : Ah, because you’ve been beaten up by other losers like you?",Insult-General_Insult,Harasser,False,False
+A_2,315,Bullo1 : Non vali neanche le calorie che brucio scrivendoti,Bullo1 : You're not even worth the calories I burn writing to you,Curse_or_Exclusion,Harasser,False,False
+A_2,318,SupportoBullo2 : Già … ai proprio ragione Bullo1,SupportoBullo2 : Yep ... you are right Bullo1,Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_2,322,Bullo1 : Hey sfigatello ! Come va ?,Bullo1 : Hey little loser  What's up?,Insult-General_Insult,Harasser,False,False
+A_3,3,"‎23 / 04 / 18 , 16 : 22 - Bullo1 : Ma chi ci vuole venire che quando balli sembri un ippopotamo","‎23 / 04 / 18 , 16 : 22 - Bullo1 : Who wants to come  when you dance you look like a hippo:",Insult-BodyShame,Harasser,False,False
+A_3,3,"‎23 / 04 / 18 , 16 : 22 - Bullo1 : Ma chi ci vuole venire che quando balli sembri un ippopotamo","‎23 / 04 / 18 , 16 : 22 - Bullo1 : Who wants to come  when you dance you look like a hippo:",Insult-BodyShame,Harasser,False,False
+A_3,3,"‎23 / 04 / 18 , 16 : 22 - Bullo1 : Ma chi ci vuole venire che quando balli sembri un ippopotamo","‎23 / 04 / 18 , 16 : 22 - Bullo1 : Who wants to come  when you dance you look like a hippo:",Curse_or_Exclusion,Harasser,False,False
+A_3,3,"‎23 / 04 / 18 , 16 : 22 - Bullo1 : Ma chi ci vuole venire che quando balli sembri un ippopotamo","‎23 / 04 / 18 , 16 : 22 - Bullo1 : Who wants to come  when you dance you look like a hippo:",Curse_or_Exclusion,Harasser,False,False
+A_3,4,"‎23 / 04 / 18 , 16 : 23 - Bullo2 : Poi ballare è da donne","‎23 / 04 / 18 , 16 : 23 - Bullo2 : Then dancing is for women",Insult-Discrimination-Sexism,Harasser,False,False
+A_3,5,"‎23 / 04 / 18 , 16 : 23 - Bullo1 : Già","‎23 / 04 / 18 , 16 : 23 - Bullo1 : Yep ",Encouragement_to_the_Harasser,Harasser,False,False
+A_3,6,"‎23 / 04 / 18 , 16 : 23 - Vittima : ma perché dite così ?","‎23 / 04 / 18 , 16 : 23 - Vittima : Why do you say that?",Defense,Victim,False,False
+A_3,7,"‎23 / 04 / 18 , 16 : 24 - Vittima : non è vero che è da donne , e poi non mi avete mai visto ballare","‎23 / 04 / 18 , 16 : 24 - Vittima : It's not true that it's for women, and you've never seen me dance.",Defense,Victim,False,False
+A_3,8,"‎23 / 04 / 18 , 16 : 24 - SupportoVittima2 : Secondo me è bravo non bisogna giudicare prima di vedere","‎23 / 04 / 18 , 16 : 24 - SupportoVittima2 : I think he's good. Don't judge before you see him.",Defense,Bystander_defender,False,False
+A_3,9,"‎23 / 04 / 18 , 16 : 24 - SupportoVittima2 : Lasciatelo stare io vengo volentieri","‎23 / 04 / 18 , 16 : 24 - SupportoVittima2 : Leave him alone I am coming ",Defense,Bystander_defender,False,False
+A_3,10,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : È l'ultima cosa che vorrei fare","‎23 / 04 / 18 , 16 : 25 - Bullo2 : It is the last thing I would like to do",Curse_or_Exclusion,Harasser,False,False
+A_3,12,"‎23 / 04 / 18 , 16 : 25 - SupportoBullo2 : Appunto e da sfigati","‎23 / 04 / 18 , 16 : 25 - SupportoBullo2 : Exactly and it is for losers",Insult-General_Insult,Bystander_assistant,False,False
+A_3,13,"‎23 / 04 / 18 , 16 : 25 - SupportoVittima2 : Che simpaticone","‎23 / 04 / 18 , 16 : 25 - SupportoVittima2 : What a funny guy",Insult-General_Insult,Bystander_defender,True,False
+A_3,15,"‎23 / 04 / 18 , 16 : 26 - Vittima : Bullo2 guarda che non ti costringe nessuno . . . che poi in realtà non hai mai visto qualcuno danzare , magari ti piace lo spettacolo","‎23 / 04 / 18 , 16 : 26 - Vittima : Bullo2 look, no one is forcing you . . . you have never actually seen someone dance, maybe you like the show:",Defense,Victim,False,False
+A_3,16,"‎23 / 04 / 18 , 16 : 27 - Bullo1 : Così vi rendete ridicoli pure voi","‎23 / 04 / 18 , 16 : 27 - Bullo1 : So you make fools of yourselves too:",Insult-General_Insult,Harasser,False,False
+A_3,17,"‎23 / 04 / 18 , 16 : 27 - SupportoVittima2 : Allora a me piacciono i gay","‎23 / 04 / 18 , 16 : 27 - SupportoVittima2 : Then I like gays",Defense,Bystander_defender,False,False
+A_3,18,"‎23 / 04 / 18 , 16 : 27 - SupportoBullo2 : Ma dai tanto e da sfigati cosa vai a vedere delle bellerine","‎23 / 04 / 18 , 16 : 27 - SupportoBullo2 : Come on, it's for losers. Why are you going to see dancing girls.",Insult-General_Insult,Bystander_assistant,False,False
+A_3,21,"‎23 / 04 / 18 , 16 : 28 - Bullo2 : Lo so ma un maschio che balla è ridicolo","‎23 / 04 / 18 , 16 : 28 - Bullo2 : I know, but a male dancer is ridiculous.",Insult-Discrimination-Sexism,Harasser,False,False
+A_3,24,"‎23 / 04 / 18 , 16 : 29 - SupportoBullo2 : Si siete delle bellerine / bellerini che bellano come dei gay","‎23 / 04 / 18 , 16 : 29 - SupportoBullo2 : Yes you are dancers (girls and boys) who dance like gays",Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_3,25,"‎23 / 04 / 18 , 16 : 29 - Bullo2 : Infatti","‎23 / 04 / 18 , 16 : 29 - Bullo2 : Indeed",Encouragement_to_the_Harasser,Harasser,False,False
+A_3,26,"‎23 / 04 / 18 , 16 : 31 - Vittima : evidentemente non siete abbastanza sensibili","‎23 / 04 / 18 , 16 : 31 - Vittima : Clearly you are not sensitive enough",Defense,Victim,False,False
+A_3,28,"‎23 / 04 / 18 , 16 : 32 - SupportoBullo2 : Casomai veniamo veniamo a vedere lo spettacolo SOLO per lanciarti i pomodore","‎23 / 04 / 18 , 16 : 32 - SupportoBullo2 : In case we come, we come to see the show JUST to throw tomatoes at you:",Threat_or_Blackmail,Bystander_assistant,False,False
+A_3,29,"‎23 / 04 / 18 , 16 : 33 - Bullo2 : Vero","‎23 / 04 / 18 , 16 : 33 - Bullo2 : True:",Encouragement_to_the_Harasser,Harasser,False,False
+A_3,30,"‎23 / 04 / 18 , 16 : 33 - SupportoBullo2 : No pk hai problemi","‎23 / 04 / 18 , 16 : 33 - SupportoBullo2 : No ‘cos you have problems",Insult-General_Insult,Bystander_assistant,False,False
+A_3,31,"‎23 / 04 / 18 , 16 : 33 - Vittima : Ma che ne sapete ! guarda che ci sono un sacco di ballerini famosi","‎23 / 04 / 18 , 16 : 33 - Vittima : What do you know! For your information, there are a lot of famous dancers.",Defense,Harasser,False,False
+A_3,35,"‎23 / 04 / 18 , 16 : 34 - Vittima : che ne sai di come ballo","‎23 / 04 / 18 , 16 : 34 - Vittima : What do you know about my dancing",Defense,Victim,False,False
+A_3,37,"‎23 / 04 / 18 , 16 : 35 - SupportoBullo2 : Non ci tengo a vedere un porco ballare","‎23 / 04 / 18 , 16 : 35 - SupportoBullo2 : I don't want to see a pig dancing",Insult-BodyShame,Bystander_assistant,False,False
+A_3,38,"‎23 / 04 / 18 , 16 : 37 - Vittima : ma non ti permettere ! guarda che la danza è uno sport come un altro","‎23 / 04 / 18 , 16 : 37 - Vittima : Don’t you dare! For your information, ballet is a sport like any other",Defense,Victim,False,False
+A_3,39,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Ma statevene zitti Madonna che dalle sue doti mi sembra che sappia ballare meglio di voi","‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Shut up, will you Geez. Based on his skills, I think he can dance better than you.",Defense,Bystander_defender,False,False
+A_3,39,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Ma statevene zitti Madonna che dalle sue doti mi sembra che sappia ballare meglio di voi","‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Shut up, will you Geez. Based on his skills, I think he can dance better than you.",Defense,Bystander_defender,False,False
+A_3,39,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Ma statevene zitti Madonna che dalle sue doti mi sembra che sappia ballare meglio di voi","‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Shut up, will you Geez. Based on his skills, I think he can dance better than you.",Curse_or_Exclusion,Bystander_defender,False,False
+A_3,39,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Ma statevene zitti Madonna che dalle sue doti mi sembra che sappia ballare meglio di voi","‎23 / 04 / 18 , 16 : 37 - SupportoVittima2 : Shut up, will you Geez. Based on his skills, I think he can dance better than you.",Curse_or_Exclusion,Bystander_defender,False,False
+A_3,41,"‎23 / 04 / 18 , 16 : 37 - Vittima : non vi ho mica costretto","‎23 / 04 / 18 , 16 : 37 - Vittima : I didn't force you.",Defense,Victim,False,False
+A_3,46,"‎23 / 04 / 18 , 16 : 40 - SupportoBullo2 : Noi veniamo li ha lanciarti pomodori tutta la recita","‎23 / 04 / 18 , 16 : 40 - SupportoBullo2 : We come there to throw tomatoes at you throughout the play",Threat_or_Blackmail,Bystander_assistant,False,False
+A_3,49,"‎23 / 04 / 18 , 16 : 40 - SupportoVittima2 : Lo rimarrete voi che non sapete manco come balla magari è bravissimo e ve lo perdete siete solo invidiosi e avete paura di ammettere i vostri gusti","‎23 / 04 / 18 , 16 : 40 - SupportoVittima2 : You'll be the ones.  You don't even know how he dances, maybe he's very good and you'll miss him, you're just jealous and you're afraid to admit your taste.",Defense,Bystander_defender,False,False
+A_3,53,"‎23 / 04 / 18 , 16 : 43 - SupportoBullo2 : Secondo noi nonsiamo invidiosi di uno che balla come un porco in cinta","‎23 / 04 / 18 , 16 : 43 - SupportoBullo2 : We think we are not envious of someone who dances like a pregnant pig.",Insult-BodyShame,Bystander_assistant,False,False
+A_3,56,"‎23 / 04 / 18 , 16 : 44 - Vittima : SupportoBullo2 ma perché mi offendi così","‎23 / 04 / 18 , 16 : 44 - Vittima : SupportoBullo2 but why do you offend me so",Defense,Victim,False,False
+A_3,59,"‎23 / 04 / 18 , 16 : 45 - SupportoBullo2 : Pk ne ho voglia e non mi piacciono i tuoi gusti cretino","‎23 / 04 / 18 , 16 : 45 - SupportoBullo2 : ‘cos I want it and I don't like your taste, dumbass!",Insult-General_Insult,Bystander_assistant,False,False
+A_3,63,"‎23 / 04 / 18 , 16 : 46 - SupportoBullo2 : Bravo Bul","‎23 / 04 / 18 , 16 : 46 - SupportoBullo2 : Well done Bul",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_3,66,"‎23 / 04 / 18 , 16 : 48 - SupportoBullo2 : Sisi tu impara a volare poi ne ripensiamo","‎23 / 04 / 18 , 16 : 48 - SupportoBullo2 : Yes, yes,  you learn how to fly then we'll rethink it",Threat_or_Blackmail,Bystander_assistant,False,False
+A_3,68,"‎23 / 04 / 18 , 16 : 49 - SupportoBullo2 : Ma nessuna lancera i pomodori purché chi vuole venire a vedere delle scimmie ballare","‎23 / 04 / 18 , 16 : 49 - SupportoBullo2 : But no one's gonna throw tomatoes, who wants to go and see monkeys dancing?:",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,70,"‎23 / 04 / 18 , 16 : 49 - Vittima : siete cattivi , non vi ho fatto niente","‎23 / 04 / 18 , 16 : 49 - Vittima : You're awful, I didn't do anything to you",Defense,Victim,False,False
+A_3,71,"‎23 / 04 / 18 , 16 : 49 - Vittima : pensavo che potesse farvi piacere","‎23 / 04 / 18 , 16 : 49 - Vittima : I thought you might like it",Defense,Victim,False,False
+A_3,72,"‎23 / 04 / 18 , 16 : 49 - Vittima : non ci parliamo mai , non sapete nulla di ciò che faccio","‎23 / 04 / 18 , 16 : 49 - Vittima : We never talk (to each other), you don't know anything about what I do.",Defense,Victim,False,False
+A_3,74,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo2 : Mi basta vederti che capisco subito che sei uno sfigato di merda","‎23 / 04 / 18 , 16 : 51 - SupportoBullo2 : I can tell just by looking at you that you're a f***ing loser.",Insult-General_Insult,Bystander_assistant,False,False
+A_3,76,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo2 : Se ti vedo ballare mi viene il voltastomaco","‎23 / 04 / 18 , 16 : 51 - SupportoBullo2 : If I see you dance, I’ll get sick to my stomach",Insult-General_Insult,Bystander_assistant,False,False
+A_3,77,"‎23 / 04 / 18 , 16 : 54 - Vittima : non è vero","‎23 / 04 / 18 , 16 : 54 - Vittima : It's not true!",Defense,Victim,False,False
+A_3,79,"‎23 / 04 / 18 , 16 : 54 - Bullo2 : Ma stai zitto","‎23 / 04 / 18 , 16 : 54 - Bullo2 : Shut up!",Curse_or_Exclusion,Harasser,False,False
+A_3,81,"‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Ma stai zitto cretino","‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Shut up you idiot",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,81,"‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Ma stai zitto cretino","‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Shut up you idiot",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,81,"‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Ma stai zitto cretino","‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Shut up you idiot",Insult-General_Insult,Bystander_assistant,False,False
+A_3,81,"‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Ma stai zitto cretino","‎23 / 04 / 18 , 16 : 55 - SupportoBullo2 : Shut up you idiot",Insult-General_Insult,Bystander_assistant,False,False
+A_3,82,"‎23 / 04 / 18 , 16 : 55 - SupportoVittima3 : Invece secondo me è molto bravo . ognuno nella vita può fare quello che desidera","‎23 / 04 / 18 , 16 : 55 - SupportoVittima3 : I  think he is very good actually. everyone can do what he wants in his life:",Defense,Bystander_defender,False,False
+A_3,87,"‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Ma state tutti zitti cretini","‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Shut up, all of you, dumbasses!",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,87,"‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Ma state tutti zitti cretini","‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Shut up, all of you, dumbasses!",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,87,"‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Ma state tutti zitti cretini","‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Shut up, all of you, dumbasses!",Insult-General_Insult,Bystander_assistant,False,False
+A_3,87,"‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Ma state tutti zitti cretini","‎23 / 04 / 18 , 16 : 58 - SupportoBullo2 : Shut up, all of you, dumbasses!",Insult-General_Insult,Bystander_assistant,False,False
+A_3,88,"‎23 / 04 / 18 , 16 : 59 - SupportoBullo2 : Ma chi ti vorebbe come amico","‎23 / 04 / 18 , 16 : 59 - SupportoBullo2 : But who would want you as a friend",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,90,"‎23 / 04 / 18 , 17 : 00 - SupportoVittima3 : Ragazzi ma lui vi ha invitato se poi voi non volete andarci non andateci ma non bisogna prendere in giro .","‎23 / 04 / 18 , 17 : 00 - SupportoVittima3 : Guys,  he invited you, if you don't want to go, just don't go but you don't have to make fun of him.",Defense,Bystander_defender,False,False
+A_3,93,"‎23 / 04 / 18 , 17 : 00 - Vittima : non capiscono nulla e pretendono di capire tutto","‎23 / 04 / 18 , 17 : 00 - Vittima : they do not understand anything and they claim to understand everything",Defense,Victim,False,False
+A_3,95,"‎23 / 04 / 18 , 17 : 01 - SupportoVittima3 : Io sono suo amico","‎23 / 04 / 18 , 17 : 01 - SupportoVittima3 : I am his friend",Defense,Bystander_defender,False,False
+A_3,98,"‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : ma stai zitto coglione tu non saii un cazzo di noi","‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : but shut up you asshole, you don't know shit about us",Insult-General_Insult,Bystander_assistant,False,False
+A_3,98,"‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : ma stai zitto coglione tu non saii un cazzo di noi","‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : but shut up you asshole, you don't know shit about us",Insult-General_Insult,Bystander_assistant,False,False
+A_3,98,"‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : ma stai zitto coglione tu non saii un cazzo di noi","‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : but shut up you asshole, you don't know shit about us",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,98,"‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : ma stai zitto coglione tu non saii un cazzo di noi","‎23 / 04 / 18 , 17 : 03 - SupportoBullo2 : but shut up you asshole, you don't know shit about us",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,99,"‎23 / 04 / 18 , 17 : 03 - SupportoVittima2 : E anche io e lo trovo più simpatico di tutti voi","‎23 / 04 / 18 , 17 : 03 - SupportoVittima2 : And me too and I find him nicer than all of you",Defense,Bystander_assistant,False,False
+A_3,100,"‎23 / 04 / 18 , 17 : 03 - Vittima : non voglio sapere niente di voi","‎23 / 04 / 18 , 17 : 03 - Vittima : I don't want to know anything about you",Defense,Victim,False,False
+A_3,101,"‎23 / 04 / 18 , 17 : 03 - Vittima : se l'unica cosa che sapete fare è offendere","‎23 / 04 / 18 , 17 : 03 - Vittima : the only thing you know how to do is offend",Defense,Victim,False,False
+A_3,102,"‎23 / 04 / 18 , 17 : 03 - SupportoVittima3 : Sa però che siete molto maleducati","‎23 / 04 / 18 , 17 : 03 - SupportoVittima3 : He knows that you are very rude",Defense,Bystander_defender,False,False
+A_3,109,"‎23 / 04 / 18 , 17 : 05 - Vittima : mica come voi che parlate male di tutti","‎23 / 04 / 18 , 17 : 05 - Vittima : Not like you who talk bad about everyone.",Defense,Victim,False,False
+A_3,112,"‎23 / 04 / 18 , 17 : 05 - SupportoBullo2 : È giusto cretino","‎23 / 04 / 18 , 17 : 05 - SupportoBullo2 : That's right dumbass",Insult-General_Insult,Bystander_assistant,False,False
+A_3,118,"‎23 / 04 / 18 , 17 : 07 - SupportoVittima3 : Allora mi sa che nel tuo piccolo cervellino oltre che insultare le persone non sai fare altro","‎23 / 04 / 18 , 17 : 07 - SupportoVittima3 : Then I guess in your little brain you can't do anything but insult people.",Defense,Bystander_defender,False,False
+A_3,120,"‎23 / 04 / 18 , 17 : 08 - SupportoBullo2 : Sii pk hai problemi cazzo","‎23 / 04 / 18 , 17 : 08 - SupportoBullo2 : Yes, ‘cos you have  problems dick",Insult-General_Insult,Bystander_assistant,False,False
+A_3,121,"‎23 / 04 / 18 , 17 : 08 - SupportoVittima3 : &#128405;","‎23 / 04 / 18 , 17 : 08 - SupportoVittima3 : &#128405;",Insult-General_Insult,Bystander_defender,False,False
+A_3,122,"‎23 / 04 / 18 , 17 : 09 - SupportoVittima2 : Si mona frena un attimo","‎23 / 04 / 18 , 17 : 09 - SupportoVittima2 : Yes, bitch, hold on there ",Insult-General_Insult,Bystander_defender,False,False
+A_3,123,"‎23 / 04 / 18 , 17 : 09 - SupportoVittima3 : Sai solo offendere e non sai fare altro","‎23 / 04 / 18 , 17 : 09 - SupportoVittima3 : You only know how to offend and you don't know how to do anything else",Defense,Bystander_defender,False,False
+A_3,125,"‎23 / 04 / 18 , 17 : 10 - SupportoBullo2 : Si hai problemi","‎23 / 04 / 18 , 17 : 10 - SupportoBullo2 : Yes, you have problems:",Insult-General_Insult,Bystander_assistant,False,False
+A_3,130,"‎23 / 04 / 18 , 17 : 17 - Vittima : sì , ho problemi perché mi rende triste","‎23 / 04 / 18 , 17 : 17 - Vittima : yes, I have problems because it makes me sad:",Defense,Victim,False,False
+A_3,132,"‎23 / 04 / 18 , 17 : 18 - SupportoVittima2 : Ma ignoralii","‎23 / 04 / 18 , 17 : 18 - SupportoVittima2 : Just ignore them",Defense,Bystander_defender,False,False
+A_3,135,"‎23 / 04 / 18 , 17 : 18 - SupportoBullo2 : Il saggio degli sfigati","‎23 / 04 / 18 , 17 : 18 - SupportoBullo2 : The losers’ recital:",Insult-General_Insult,Bystander_assistant,False,False
+A_3,136,"‎23 / 04 / 18 , 17 : 18 - Bullo1 : Spero che ti spacchi la schiena","‎23 / 04 / 18 , 17 : 18 - Bullo1 : I hope you break your back",Curse_or_Exclusion,Harasser,False,False
+A_3,139,"‎23 / 04 / 18 , 17 : 19 - SupportoVittima2 : Hahaha io lo adoro","‎23 / 04 / 18 , 17 : 19 - SupportoVittima2 : Hahaha I love him",Defense,Bystander_defender,False,False
+A_3,141,"‎23 / 04 / 18 , 17 : 20 - SupportoBullo2 : Si duro pk vai ha provare la sciena dove ti lanciano i pomodori","‎23 / 04 / 18 , 17 : 20 - SupportoBullo2 : Yeah tough ‘cos you go rehearse the scene where they throw tomatoes at you.",Threat_or_Blackmail,Bystander_assistant,False,False
+A_3,142,"‎23 / 04 / 18 , 17 : 20 - Bullo1 : Già","‎23 / 04 / 18 , 17 : 20 - Bullo1 : Yep",Encouragement_to_the_Harasser,Harasser,False,False
+A_3,147,"‎23 / 04 / 18 , 17 : 21 - SupportoBullo2 : Non me ne frega un cazzo","‎23 / 04 / 18 , 17 : 21 - SupportoBullo2 : I do not give a shit.",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,148,"‎23 / 04 / 18 , 17 : 21 - SupportoVittima2 : Devi ignorarli tu fallo proprio perché non li piace a loro","‎23 / 04 / 18 , 17 : 21 - SupportoVittima2 : You have to ignore them, just do it because they don't like it",Defense,Bystander_defender,False,False
+A_3,149,"‎23 / 04 / 18 , 17 : 21 - SupportoBullo2 : Piangi non frega a nessuno","‎23 / 04 / 18 , 17 : 21 - SupportoBullo2 : Cry, no one cares:",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,152,"‎23 / 04 / 18 , 17 : 22 - SupportoBullo2 : Anche se ti alleni rimani un ballerino fallito","‎23 / 04 / 18 , 17 : 22 - SupportoBullo2 : Even if you practice, you're still a failed dancer.",Defamation,Bystander_assistant,False,False
+A_3,154,"‎23 / 04 / 18 , 17 : 22 - Bullo1 : Grande SupportoBullo2","‎23 / 04 / 18 , 17 : 22 - Bullo1 : Great SupportoBullo2",Encouragement_to_the_Harasser,Harasser,False,False
+A_3,157,"‎23 / 04 / 18 , 17 : 24 - SupportoBullo2 : Spero che perdi l'autobus cosí non puoi andare a fare le prove e cosí domani non ti fanno ballare ( meglio per li spettatori di domani se non vai a fare il saggio ) 🤮","‎23 / 04 / 18 , 17 : 24 - SupportoBullo2 :I hope you miss the bus so you can't go rehearse and so they don't make you dance tomorrow (it’s better for the audience tomorrow if you don't dance in the recital ) 🤮:",Curse_or_Exclusion,Bystander_assistant,False,False
+A_3,163,"‎23 / 04 / 18 , 17 : 46 - SupportoBullo3 : Ma che perdere l' autobus che appena il conducente lo vede non si ferma neanche","‎23 / 04 / 18 , 17 : 46 - SupportoBullo3 : What do you meant miss the bus, when the driver sees him he won’t even stop.",Defamation,Bystander_assistant,False,False
+A_3,164,"‎23 / 04 / 18 , 17 : 46 - SupportoBullo2 : Grande","‎23 / 04 / 18 , 17 : 46 - SupportoBullo2 : Great",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_3,165,"‎23 / 04 / 18 , 17 : 47 - SupportoBullo2 : Anche secondo me","‎23 / 04 / 18 , 17 : 47 - SupportoBullo2 : I think so too.",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_3,166,"‎23 / 04 / 18 , 17 : 48 - SupportoBullo2 : Hai ragione SupportoBullo3","‎23 / 04 / 18 , 17 : 48 - SupportoBullo2 : You are right SupportoBullo3",Encouragement_to_the_Harasser,Bystander_assistant,False,False
+A_3,167,"‎23 / 04 / 18 , 19 : 55 - SupportoVittima2 : Secondo me si ma te sei problematico hahhaha","‎23 / 04 / 18 , 19 : 55 - SupportoVittima2 : I think so but you do have issues hahhaha",Insult-General_Insult,Bystander_defender,False,False
+A_3,170,"‎24 / 04 / 18 , 16 : 11 - SupportoVittima2 : Hahahah grande davvero non ne dubitavo &#128582;‍♀ &#10084;","‎24 / 04 / 18 , 16 : 11 - SupportoVittima2 : Hahahah great really I had no doubt &#128582;♀ &#10084;",Defense,Bystander_defender,False,False
+A_3,172,"‎24 / 04 / 18 , 16 : 18 - Vittima : ma che ne sai","‎24 / 04 / 18 , 16 : 18 - Vittima : what do you know",Defense,Victim,False,False
+A_3,174,"‎24 / 04 / 18 , 16 : 22 - SupportoVittima1 : Congratulazioni Vittima sapevo che c'e l'avresti fatta &#128378; &#127882;","‎24 / 04 / 18 , 16 : 22 - SupportoVittima1 : Congratulations Vittima I knew that you would have made it &#128378; &#127882;",Defense,Bystander_defender,False,False
+A_3,178,"‎24 / 04 / 18 , 16 : 23 - Bullo1 : Si come peggior ballerino","‎24 / 04 / 18 , 16 : 23 - Bullo1 : Yes, as the worst dancer.",Insult-General_Insult,Harasser,False,False
+A_3,181,"‎24 / 04 / 18 , 16 : 25 - Vittima : siete sempre così con me","‎24 / 04 / 18 , 16 : 25 - Vittima : You're always like this with me.",Defense,Victim,False,False
+A_3,182,"‎24 / 04 / 18 , 16 : 25 - Vittima : mi trattate sempre male","‎24 / 04 / 18 , 16 : 25 - Vittima : You always treat me bad.",Defense,Victim,False,False
+A_3,184,"‎24 / 04 / 18 , 16 : 26 - Vittima : siete persone cattive","‎24 / 04 / 18 , 16 : 26 - Vittima : You are awful people.",Defense,Victim,False,False
+A_3,189,"‎24 / 04 / 18 , 16 : 47 - Vittima : sapete solo offendere","‎24 / 04 / 18 , 16 : 47 - Vittima : you only know how to offend",Defense,Victim,False,False
+A_3,190,"‎24 / 04 / 18 , 16 : 49 - SupportoVittima1 : Non dargli retta tanto sanno solo offendere","‎24 / 04 / 18 , 16 : 49 - SupportoVittima1 : Don't listen to them, they only know how to offend.",Defense,Bystander_defender,False,False
+A_3,197,"‎24 / 04 / 18 , 17 : 07 - SupportoBullo2 : Balli anche te cosí da gay ?","‎24 / 04 / 18 , 17 : 07 - SupportoBullo2 : Do you also dance like a gay?",Insult-Discrimination-Sexism,Bystander_assistant,False,False
+A_3,199,"‎24 / 04 / 18 , 17 : 09 - SupportoBullo2 : Ha cazzo allora sei messo peggio di quanto pensavo","‎24 / 04 / 18 , 17 : 09 - SupportoBullo2 : Oh shit, you're in worse shape than I thought.",Insult-General_Insult,Bystander_assistant,False,False
+A_3,204,"‎24 / 04 / 18 , 17 : 17 - Vittima : Ma che ne sapete voi di quanto ballo bene","‎24 / 04 / 18 , 17 : 17 - Vittima : But what do you know about how well I dance",Defense,Victim,False,False
+A_3,206,"‎24 / 04 / 18 , 17 : 17 - Vittima : Scoordinati che non siete altro","‎24 / 04 / 18 , 17 : 17 - Vittima : You're so uncoordinated",Insult-General_Insult,Victim,False,False
+A_3,208,"‎24 / 04 / 18 , 17 : 20 - Bullo1 : Anzi il cane balla meglio di lui","‎24 / 04 / 18 , 17 : 20 - Bullo1 : Actually the dog dances better than him",Defamation,Harasser,False,False
+A_3,209,"‎24 / 04 / 18 , 17 : 22 - SupportoBullo2 : Ma tutti sanno ballere meglio di lui","‎24 / 04 / 18 , 17 : 22 - SupportoBullo2 : But everyone can dance better than him",Defamation,Bystander_assistant,False,False
+A_3,210,"‎24 / 04 / 18 , 17 : 42 - Vittima : Bravi bravi","‎24 / 04 / 18 , 17 : 42 - Vittima : Well done, well done",Defense,Victim,True,False
+A_3,213,"‎24 / 04 / 18 , 18 : 00 - SupportoVittima2 : Ma lasciatelo stare dio can farà ciò che vuole","‎24 / 04 / 18 , 18 : 00 - SupportoVittima2 : But leave him alone, for God’s sake, he will do what he wants",Defense,Bystander_assistant,False,False
+A_3,214,"‎24 / 04 / 18 , 18 : 00 - SupportoVittima2 : È più bravo di voi ignoranti","‎24 / 04 / 18 , 18 : 00 - SupportoVittima2 : He's better than you, ignorant people.",Insult-General_Insult,Bystander_defender,False,False
+A_3,215,"‎24 / 04 / 18 , 20 : 34 - Bullo1 : Ma ignorante sarai tu","‎24 / 04 / 18 , 20 : 34 - Bullo1 :  you are the ignorant one",Insult-General_Insult,Harasser,False,False
+A_3,216,"‎24 / 04 / 18 , 20 : 34 - SupportoVittima2 : Scusami se ti ho offeso ma smettetela di offenderlo","‎24 / 04 / 18 , 20 : 34 - SupportoVittima2 : Sorry if I offended you but stop offending him.",Defense,Bystander_assistant,False,False
+A_3,218,"‎24 / 04 / 18 , 20 : 41 - SupportoVittima2 : Adesso così a caso la smetti &#128580;giuro che non vi capisco siete senza cuore","‎24 / 04 / 18 , 20 : 41 - SupportoVittima2 : Now you stop for no reason &#128580;I swear that I do not understand you, you have no heart:",Defense,Bystander_defender,False,False
+A_3,220,"‎25 / 04 / 18 , 10 : 41 - Vittima : Non è che non avete cuore , è che non avete sensibilità per venire a un saggio e vedere che la danza è una bellissima arte","‎25 / 04 / 18 , 10 : 41 - Vittima : It's not that you have no heart, it's that you are not sensitive enough to come to a recital and see that dance is a beautiful art.",Defense,Victim,False,False
+A_3,221,"‎25 / 04 / 18 , 10 : 41 - Vittima : Mi spiace per voi","‎25 / 04 / 18 , 10 : 41 - Vittima : I feel sorry for you",Defense,Victim,False,False
+A_3,222,"‎25 / 04 / 18 , 10 : 41 - Vittima : Le vostre offese possojo anche ferirmi ma non formeranno le mie gambe a muoversi a ritmo","‎25 / 04 / 18 , 10 : 41 - Vittima : Your insults may hurt me but they won't stop my legs from moving to the rhythm.",Defense,Victim,False,False
+A_3,223,"‎25 / 04 / 18 , 10 : 43 - SupportoVittima2 : Tutto vero &#128582;‍♀ti stimo un sacco non arrenderti mai","‎25 / 04 / 18 , 10 : 43 - SupportoVittima2 : It's all true &#128582;♀I appreciate you so much don't ever give up",Defense,Bystander_defender,False,False
+A_3,229,"‎25 / 04 / 18 , 18 : 58 - SupportoVittima2 : Voi rovinate tutto con il vostro pessimismo","‎25 / 04 / 18 , 18 : 58 - SupportoVittima2 : You people ruin everything with your pessimism",Defense,Bystander_defender,False,False
+A_4,2,"‎23 / 04 / 18 , 16 : 18 - Bullo2 : Che sfigatoo &#128514; &#128514;","‎23 / 04 / 18 , 16 : 18 - Bullo2 : What a loser &#128514; &#128514;",Insult-General_Insult,Harasser,False,False
+A_4,3,"‎23 / 04 / 18 , 16 : 24 - Bullo1 : Manco fossi gay &#128405; &#128514; &#128514; &#128514;","‎23 / 04 / 18 , 16 : 24 - Bullo1 : Not even if I were gay &#128405; &#128514; &#128514; &#128514;",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,4,"‎23 / 04 / 18 , 16 : 24 - Bullo1 : &#129318;‍♀","‎23 / 04 / 18 , 16 : 24 - Bullo1 : &#129318;♀:",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,5,"‎23 / 04 / 18 , 16 : 24 - SupportoVittima2 : Dai lasciatelo in pace","‎23 / 04 / 18 , 16 : 24 - SupportoVittima2 : Come on leave him alone",Defense,Bystander_defender,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Curse_or_Exclusion,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Curse_or_Exclusion,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Curse_or_Exclusion,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Insult-General_Insult,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Insult-General_Insult,Harasser,False,False
+A_4,6,"‎23 / 04 / 18 , 16 : 25 - Bullo2 : Dai valá è roba da donne lascia stare sfigato tanto nessuno verrá a vederti &#128514;","‎23 / 04 / 18 , 16 : 25 - Bullo2 : Come on, it's women's stuff, leave it alone loser, no one will come to see you &#128514;",Insult-General_Insult,Harasser,False,False
+A_4,7,"‎23 / 04 / 18 , 16 : 26 - Bullo2 : Coglione","‎23 / 04 / 18 , 16 : 26 - Bullo2 : Asshole",Insult-General_Insult,Harasser,False,False
+A_4,9,"‎23 / 04 / 18 , 16 : 28 - Bullo2 : Sfigata anche te mona &#128514;","‎23 / 04 / 18 , 16 : 28 - Bullo2 : Loser you too bitch &#128514;",Insult-General_Insult,Harasser,False,False
+A_4,10,"‎23 / 04 / 18 , 16 : 29 - SupportoVittima2 : Ma dai le sfigate siete voi &#129304;","‎23 / 04 / 18 , 16 : 29 - SupportoVittima2 : Come on, you are the losers &#129304;",Insult-General_Insult,Bystander_defender,False,False
+A_4,12,"‎23 / 04 / 18 , 16 : 30 - SupportoVittima2 : Ma tua madre","‎23 / 04 / 18 , 16 : 30 - SupportoVittima2 : But your mother",Insult-Attacking_relatives,Bystander_defender,False,False
+A_4,13,"‎23 / 04 / 18 , 16 : 30 - Bullo1 : &#128514; Vittima sei protetto dalle sfigate","‎23 / 04 / 18 , 16 : 30 - Bullo1 : &#128514; Vittima you are protected by the losers",Insult-General_Insult,Harasser,False,False
+A_4,14,"‎23 / 04 / 18 , 16 : 30 - Bullo2 : Evidentemente sei un rompi cazzi","‎23 / 04 / 18 , 16 : 30 - Bullo2 : Clearly you're a pain in the ass.",Insult-General_Insult,Harasser,False,False
+A_4,16,"‎23 / 04 / 18 , 16 : 31 - SupportoVittima1 : Ha ragione Vittima","‎23 / 04 / 18 , 16 : 31 - SupportoVittima1 : Vittima is right",Defense,Bystander_defender,False,False
+A_4,19,"‎23 / 04 / 18 , 16 : 31 - SupportoVittima2 : &#128405;","‎23 / 04 / 18 , 16 : 31 - SupportoVittima2 : &#128405;",Insult-General_Insult,Bystander_defender,False,False
+A_4,21,"‎23 / 04 / 18 , 16 : 32 - SupportoVittima2 : Ma stai zitta","‎23 / 04 / 18 , 16 : 32 - SupportoVittima2 : Shut up!",Curse_or_Exclusion,Bystander_defender,False,False
+A_4,22,"‎23 / 04 / 18 , 16 : 32 - Bullo2 : Sopportare gli sfigati come voi è come cercare di mettere incinta un trans","‎23 / 04 / 18 , 16 : 32 - Bullo2 : To put up with losers like you is like trying to get a tranny pregnant.",Insult-General_Insult,Harasser,False,False
+A_4,24,"‎23 / 04 / 18 , 16 : 33 - SupportoVittima1 : Non sapete apprezzare la vita","‎23 / 04 / 18 , 16 : 33 - SupportoVittima1 : You don't know how to appreciate life",Defense,Bystander_defender,False,False
+A_4,25,"‎23 / 04 / 18 , 16 : 33 - SupportoVittima1 : Spigate","‎23 / 04 / 18 , 16 : 33 - SupportoVittima1 : Losers",Insult-General_Insult,Bystander_defender,False,False
+A_4,27,"‎23 / 04 / 18 , 16 : 33 - Bullo2 : Parla quella che bela in classe &#128514; &#128514;","‎23 / 04 / 18 , 16 : 33 - Bullo2 : The one who whines in class is talking  &#128514; &#128514;",Insult-General_Insult,Harasser,False,False
+A_4,28,"‎23 / 04 / 18 , 16 : 33 - SupportoVittima2 : Che ti senti grande a insultare","‎23 / 04 / 18 , 16 : 33 - SupportoVittima2 : Do you feel great about insulting others?",Defense,Bystander_defender,False,False
+A_4,29,"‎23 / 04 / 18 , 16 : 34 - SupportoVittima1 : Ma non fammi ridere","‎23 / 04 / 18 , 16 : 34 - SupportoVittima1 : don't make me laugh",Defense,Bystander_defender,False,False
+A_4,33,"‎23 / 04 / 18 , 16 : 36 - Bullo2 : Cazzo te ridi","‎23 / 04 / 18 , 16 : 36 - Bullo2 : Why are you f***ing laughing!",Curse_or_Exclusion,Harasser,False,False
+A_4,34,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : Io posso ridere quanto voglio stronzetta","‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : I can laugh all I want bitch",Defense,Bystander_defender,False,False
+A_4,34,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : Io posso ridere quanto voglio stronzetta","‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : I can laugh all I want bitch",Defense,Bystander_defender,False,False
+A_4,34,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : Io posso ridere quanto voglio stronzetta","‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : I can laugh all I want bitch",Insult-General_Insult,Bystander_defender,False,False
+A_4,34,"‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : Io posso ridere quanto voglio stronzetta","‎23 / 04 / 18 , 16 : 37 - SupportoVittima1 : I can laugh all I want bitch",Insult-General_Insult,Bystander_defender,False,False
+A_4,35,"‎23 / 04 / 18 , 16 : 37 - Vittima : Ma perché fate così ?","‎23 / 04 / 18 , 16 : 37 - Vittima : Why are you doing this?:",Defense,Victim,False,False
+A_4,39,"‎23 / 04 / 18 , 16 : 38 - Bullo1 : Non mi importa niente di te e la tua danza","‎23 / 04 / 18 , 16 : 38 - Bullo1 : I don't care about you and your dancing.",Curse_or_Exclusion,Harasser,False,False
+A_4,40,"‎23 / 04 / 18 , 16 : 39 - Bullo2 : Io mi sotterrerei fossi in te","‎23 / 04 / 18 , 16 : 39 - Bullo2 : I would bury myself if I were you",Curse_or_Exclusion,Harasser,False,False
+A_4,41,"‎23 / 04 / 18 , 16 : 39 - SupportoVittima2 : Va be non serve insultarlo anche se non vi interessa","‎23 / 04 / 18 , 16 : 39 - SupportoVittima2 : No need to insult him even if you don't care.",Defense,Bystander_defender,False,False
+A_4,42,"‎23 / 04 / 18 , 16 : 39 - SupportoVittima1 : - Vittima : è uno dei bravi ballerini al mondo non come vuoi che non sapete un cazzo","‎23 / 04 / 18 , 16 : 39 - SupportoVittima1 : - Vittima : He's one of the best dancers in the world Not like you who don't know shit",Curse_or_Exclusion,Bystander_defender,False,False
+A_4,43,"‎23 / 04 / 18 , 16 : 40 - SupportoBullo1 : Ma dai ! Chi pensi che venga a vedere il tuo stupido balletto ! Non ce ne frega niente !","‎23 / 04 / 18 , 16 : 40 - SupportoBullo1 : Come on! Who do you think will come to see your stupid dance! We don't give a damn!",Curse_or_Exclusion,Bystander_assistant,False,False
+A_4,46,"‎23 / 04 / 18 , 16 : 42 - Bullo2 : Ma non frega a nessuno madò","‎23 / 04 / 18 , 16 : 42 - Bullo2 : But nobody cares, gosh ",Curse_or_Exclusion,Harasser,False,False
+A_4,49,"‎23 / 04 / 18 , 16 : 46 - Bullo2 : Ma tua madre si è azzittita","‎23 / 04 / 18 , 16 : 46 - Bullo2 : But your mother has shut up.",Insult-Attacking_relatives,Harasser,False,False
+A_4,50,"‎23 / 04 / 18 , 16 : 46 - SupportoBullo1 : Stai zitta","‎23 / 04 / 18 , 16 : 46 - SupportoBullo1 : Shut up!",Curse_or_Exclusion,Bystander_assistant,False,False
+A_4,51,"‎23 / 04 / 18 , 16 : 47 - SupportoVittima1 : Quello che deve stare zitto sei tu &#129296; &#129296;","‎23 / 04 / 18 , 16 : 47 - SupportoVittima1 : You are the one who needs to shut up &#129296; &#129296;",Curse_or_Exclusion,Bystander_defender,False,False
+A_4,52,"‎23 / 04 / 18 , 16 : 48 - Bullo2 : Chiudi il becco sia tu che il tuo amico vestito in tutù","‎23 / 04 / 18 , 16 : 48 - Bullo2 : Shut up, you and your friend wearing a tutu!",Curse_or_Exclusion,Harasser,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_assistant,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_assistant,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_assistant,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Defense,Bystander_assistant,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_assistant,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_assistant,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_assistant,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_defender,False,False
+A_4,53,"‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Chi credi di essere a difendere uno sfigato ! ! !","‎23 / 04 / 18 , 16 : 51 - SupportoBullo1 : Who do you think you are to defend a loser! ! !",Insult-General_Insult,Bystander_assistant,False,False
+A_4,54,"‎23 / 04 / 18 , 16 : 52 - SupportoVittima1 : Ti faccio vedere io che cos'è tua madre","‎23 / 04 / 18 , 16 : 52 - SupportoVittima1 : I'll show you what your mother is",Insult-Attacking_relatives,Bystander_defender,False,False
+A_4,55,"‎23 / 04 / 18 , 16 : 53 - SupportoVittima1 : Mi credo un persona normale &#128405;","‎23 / 04 / 18 , 16 : 53 - SupportoVittima1 : I think I'm a normal person &#128405;",Insult-General_Insult,Bystander_defender,False,False
+A_4,56,"‎23 / 04 / 18 , 16 : 57 - SupportoBullo1 : NORMALE TU ! ? ma per favore . . . a parte l'aspetto fisico no hai niente di normale","‎23 / 04 / 18 , 16 : 57 - SupportoBullo1 : NORMAL YOU! ? Please. . .Apart from your physical appearance, there is nothing normal about you.",Insult-General_Insult,Bystander_assistant,False,False
+A_4,57,"‎23 / 04 / 18 , 16 : 58 - SupportoVittima2 : Ma la piantate di insultare","‎23 / 04 / 18 , 16 : 58 - SupportoVittima2 : Stop insulting him",Defense,Bystander_defender,False,False
+A_4,58,"‎23 / 04 / 18 , 17 : 01 - Bullo2 : Che cazzo vuoi tu","‎23 / 04 / 18 , 17 : 01 - Bullo2 : What the fuck do you want",Curse_or_Exclusion,Harasser,False,False
+A_4,59,"‎23 / 04 / 18 , 17 : 01 - Bullo2 : Ti credi la signorina della pace","‎23 / 04 / 18 , 17 : 01 - Bullo2 : You think you're Miss Peace",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,60,"‎23 / 04 / 18 , 17 : 02 - SupportoVittima2 : Hahahhaha","‎23 / 04 / 18 , 17 : 02 - SupportoVittima2 : Hahahhaha",Defense,Bystander_defender,True,False
+A_4,63,"‎23 / 04 / 18 , 17 : 03 - SupportoVittima1 : Non sapete apprezzare la vita","‎23 / 04 / 18 , 17 : 03 - SupportoVittima1 : You don't know how to appreciate life",Defense,Bystander_defender,False,False
+A_4,65,"‎23 / 04 / 18 , 17 : 05 - SupportoVittima2 : No non è che mi credo la signorina della pace è solo che voi siete degli idiota e mi state sul cazzo","‎23 / 04 / 18 , 17 : 05 - SupportoVittima2 : No, I don't think I'm Miss Peace, it's just that you're idiots and you are a pain in the ass.",Insult-General_Insult,Bystander_defender,False,False
+A_4,66,"‎23 / 04 / 18 , 17 : 06 - SupportoVittima1 : Mi state sul cazzo anche a me","‎23 / 04 / 18 , 17 : 06 - SupportoVittima1 : You're a pain in the ass for me too.",Insult-General_Insult,Bystander_defender,False,False
+A_4,67,"‎23 / 04 / 18 , 17 : 10 - SupportoBullo1 : Saremmo noi gli idioti ? Per me non hai capito un cazzo della vita !","‎23 / 04 / 18 , 17 : 10 - SupportoBullo1 : Are we the idiots? You haven't understood a f***ing thing about life!",Insult-General_Insult,Bystander_assistant,False,False
+A_4,68,"‎23 / 04 / 18 , 17 : 12 - SupportoVittima1 : Ma va a farti un giro prima di dirmi queste cose","‎23 / 04 / 18 , 17 : 12 - SupportoVittima1 : Take a hike before you say that to me.",Curse_or_Exclusion,Bystander_defender,False,False
+A_4,70,"‎23 / 04 / 18 , 20 : 31 - Bullo1 : Ti piacciono i maschi ?","‎23 / 04 / 18 , 20 : 31 - Bullo1 : Do you like men?:",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,71,"‎23 / 04 / 18 , 20 : 32 - Vittima : Mi piace ballare ! E' bellissimo e dovreste provare prima di giudicare .","‎23 / 04 / 18 , 20 : 32 - Vittima : I love dancing! It's great and you should try it before you judge.",Defense,Victim,False,False
+A_4,77,"‎24 / 04 / 18 , 16 : 09 - SupportoBullo3 : ma non c'e' nessuno per insultarlo che qua sono tutti via , secondo me stanno cercando sua mamma in tangenziale che mi sembra che abbia il turno oggi &#128521;","‎24 / 04 / 18 , 16 : 09 - SupportoBullo3 : but there is no one to insult him, they are all away, in my opinion they are looking for his mom along the highway, it seems to me that she is working her shift today &#128521;",Insult-Attacking_relatives,Bystander_assistant,False,False
+A_4,79,"‎24 / 04 / 18 , 16 : 14 - SupportoBullo3 : mi sembra che quelli che capiscano la tua passione sono nati il 30 febbraio … questo spiega la moltitudine di gente che ti apprezza","‎24 / 04 / 18 , 16 : 14 - SupportoBullo3 : it seems to me that those who understand your passion were born on February 30 ... this explains the multitude of people who appreciate you:",Curse_or_Exclusion,Bystander_assistant,True,False
+A_4,80,"‎24 / 04 / 18 , 16 : 16 - Bullo2 : &#128514; &#128514; &#128514; &#128514; &#128514;","‎24 / 04 / 18 , 16 : 16 - Bullo2 : &#128514; &#128514; &#128514; &#128514; &#128514;",Encouragement_to_the_Harasser,Harasser,False,False
+A_4,81,"‎24 / 04 / 18 , 16 : 17 - Bullo1 : Poverino dai lasciamolo allenare per il saggio , ma tanto farà schifo comunque","‎24 / 04 / 18 , 16 : 17 - Bullo1 : Poor guy, let him train for the recital, but he's gonna suck anyway.",Insult-General_Insult,Harasser,True,False
+A_4,82,"‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : Ma stai zitto che non capisci un cazzo","‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : you shut up, you do not understand  shit",Curse_or_Exclusion,Bystander_defender,False,False
+A_4,82,"‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : Ma stai zitto che non capisci un cazzo","‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : you shut up, you do not understand  shit",Curse_or_Exclusion,Bystander_defender,False,False
+A_4,82,"‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : Ma stai zitto che non capisci un cazzo","‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : you shut up, you do not understand  shit",Insult-General_Insult,Bystander_defender,False,False
+A_4,82,"‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : Ma stai zitto che non capisci un cazzo","‎24 / 04 / 18 , 16 : 17 - SupportoVittima2 : you shut up, you do not understand  shit",Insult-General_Insult,Bystander_defender,False,False
+A_4,83,"‎24 / 04 / 18 , 16 : 18 - Bullo2 : Infatti non capiamo dove sia finito il tuo cervello . . . perso per strada forse ? ?","‎24 / 04 / 18 , 16 : 18 - Bullo2 : In fact, we don't understand where your brain has gone ... lost on the road perhaps? ?",Insult-General_Insult,Harasser,False,False
+A_4,86,"‎24 / 04 / 18 , 16 : 20 - SupportoBullo3 : quando stava con sua mamma in tangenziale che gli spiegava il lavoro l'ha dimenticato sul posto di lavoro","‎24 / 04 / 18 , 16 : 20 - SupportoBullo3 : when he was with his mom beside the highway explaining the job, she forgot him at her workplace:",Insult-Attacking_relatives,Bystander_assistant,False,False
+A_4,88,"‎24 / 04 / 18 , 16 : 23 - Bullo2 : Cazzo ridi tu","‎24 / 04 / 18 , 16 : 23 - Bullo2 :  Why are you f***ing laughing",Curse_or_Exclusion,Harasser,False,False
+A_4,89,"‎24 / 04 / 18 , 16 : 23 - SupportoBullo3 : seee cazzo ridi ? ?","‎24 / 04 / 18 , 16 : 23 - SupportoBullo3 : What the fuck are you laughing at? ?",Curse_or_Exclusion,Bystander_assistant,False,False
+A_4,91,"‎24 / 04 / 18 , 16 : 45 - SupportoBullo2 : Ieri non c'ero ma oggi si ! Mi sono fatta delle belle risate a leggere del saggio di danza ! Ma chi ha tempo da perdere così inutilmente &#128584; ? !","‎24 / 04 / 18 , 16 : 45 - SupportoBullo2 : I wasn't there yesterday, but today I was! I had a good laugh reading about the dance recital! Who has time to waste so uselessly? !",Curse_or_Exclusion,Bystander_assistant,False,False
+A_4,94,"‎24 / 04 / 18 , 17 : 10 - Vittima : vabbè , siete proprio prevenuti .","‎24 / 04 / 18 , 17 : 10 - Vittima : well you are really biased.",Defense,Victim,False,False
+A_4,97,"‎24 / 04 / 18 , 17 : 12 - Bullo2 : Datti tu una calmata con questo stupido saggio che se mi fai incavolare ti stacco una gba cosí vedremo se riuscirai ancora a fare la piroèt &#128514; &#128514;","‎24 / 04 / 18 , 17 : 12 - Bullo2 : Calm down with this stupid recital If you make me mad, I'll tear your leg off so we'll see if you can still do the pirouette  &#128514; &#128514;",Threat_or_Blackmail,Harasser,False,False
+A_4,99,"‎24 / 04 / 18 , 18 : 50 - SupportoVittima1 : Devi stare zitta","‎24 / 04 / 18 , 18 : 50 - SupportoVittima1 : You need to shut up",Curse_or_Exclusion,Bystander_defender,False,False
+A_4,100,"‎24 / 04 / 18 , 19 : 26 - Bullo1 : Ma datti una calmata tuuuu gey di &#128169;","‎24 / 04 / 18 , 19 : 26 - Bullo1 : calm down you f***ing gay &#128169;",Insult-Discrimination-Sexism,Harasser,False,False
+A_4,103,"‎24 / 04 / 18 , 21 : 54 - Bullo1 : Ma seh te credo bellissima che fa vomitare 🤮","‎24 / 04 / 18 , 21 : 54 - Bullo1 :Sure, so beautiful that it makes you puke 🤮",Insult-General_Insult,Harasser,False,False
+A_4,104,"‎24 / 04 / 18 , 21 : 59 - SupportoVittima2 : Anche tu","‎24 / 04 / 18 , 21 : 59 - SupportoVittima2 : You too",Insult-General_Insult,Bystander_defender,False,False
